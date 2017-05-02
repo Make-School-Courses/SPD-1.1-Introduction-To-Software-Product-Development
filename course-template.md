@@ -54,9 +54,19 @@ All work must **Must have Pass Fail Criteria**!
 As a general guide list the number of projects and baseline challenges that must be 
 completed to pass the class. 
 
+Here is some more information on learning assessment. 
+
+- https://www.cte.cornell.edu/teaching-ideas/assessing-student-learning/measuring-student-learning.html
+
 ## All Materials 
 
-Any resources to be used by students in class. Include books, videos
-blog posts and online articles. 
+Any resources to be used by students in class. Include: 
+
+- books
+- videos
+- blog posts
+- online articles
+- links to tutorials
+- other media
 
 
