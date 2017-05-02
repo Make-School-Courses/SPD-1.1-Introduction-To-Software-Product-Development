@@ -1,4 +1,10 @@
-# Class Template 
+# Product College Course Template 
+
+Use the course [course-template](./course-template.md) as a starting point for your 
+putting your course on the Product College Github. 
+
+Courses here should be complete course taught at the PC. Tutorials or other resources 
+should either be created as tutorials (see below) or added to Product College labs. 
 
 Write your classes and post them to the product college Github.
 Classes should be posted to 'Product College Classes'. If your class needs to link to 
@@ -10,56 +16,17 @@ Small sample files can be included in the class repository.
 
 Please follow this template for BPPE compliance. 
 
-The following should be included in the top level README in the Github repo. 
+Everything not marked *optional* should be included in the top level README in the 
+Github repo. 
 
----
+- [course-template](./course-template.md)
 
-# Course Description/Overview 
+# Product College Tutorials
 
-High level objectives. Short elevator pitch.
+Tutorials can be lessons that you teach in class or other instructional material that 
+you create for PC. 
 
-# Who should enroll (optional)
+When creating tutorials use the template for Summer Academy and submit to the web team 
+for inclusion on the web site. 
 
-A short description of who would benefit most from taking this class. 
-Include this if you feel your class would not benefit everyone. 
-
-# Pre Reqs
-
-Short description and list of bullets. Include previous classes you expect 
-students should have taken, and knowledge and skills that students should 
-have. 
-
-# Learning Outcomes/Course competencies
-
-**Must be measurable**
-
-Follow the guide here for writing competencies. 
-
-- https://sph.uth.edu/content/uploads/2012/01/Competencies-and-Learning-Objectives.pdf
-
-# Course Outline/Topics
-
-Paragraph (or three) explaining what will be learned in this class. 
-
-# Class Sessions
-
-Should include the following for all class sessions. 
-
-- Date
-- Time 
-- Location 
-- Overview 
-
-# Evaluation methods 
-
-**Must have Pass Fail Criteria** 
-
-List of projects, course work, and other evaluations each judged on pass 
-fail basis. List the number or criteria required to pass class. 
-
-# All Materials 
-
-Any resources to be used by students in class. Include books, videos
-blog posts and online articles. 
-
-
+- https://github.com/MakeSchool-Tutorials/Tutorial-Template
