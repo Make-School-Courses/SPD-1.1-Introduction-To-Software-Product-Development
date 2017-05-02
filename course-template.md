@@ -1,63 +1,60 @@
-# Class Template 
-
-Write your classes and post them to the product college Github.
-Classes should be posted to 'Product College Classes'. If your class needs to link to 
-large and complex sample/starter projects post these to 'Product College Labs'. 
-Small sample files can be included in the class repository. 
-
-- https://github.com/Product-College-Courses
-- https://github.com/Product-College-Labs
-
-Please follow this template for BPPE compliance. 
-
-The following should be included in the top level README in the Github repo. 
-
----
-
 # Course Description/Overview 
 
-High level objectives. Short elevator pitch.
+High level objectives. A short elevator pitch for the course.
 
-# Who should enroll (optional)
+## Who should enroll (optional)
 
-A short description of who would benefit most from taking this class. 
+A short description of who would benefit most from taking this class. This is optional.
 Include this if you feel your class would not benefit everyone. 
 
-# Pre Reqs
+## Prerequisites
 
-Short description and list of bullets. Include previous classes you expect 
-students should have taken, and knowledge and skills that students should 
-have. 
+A list of prerequisites students need to be successful in this class. Include previous 
+classes you expect students should have taken, and knowledge and skills that students 
+should have coming into the class. 
 
-# Learning Outcomes/Course competencies
+## Learning Outcomes/Course competencies
 
-**Must be measurable**
+A description of the skills a student aquire by taking the class. 
 
-Follow the guide here for writing competencies. 
+**Must be measurable!** Make School does not have grades but we do evaluate student 
+progress. Usually this will evaluate to something a student will be able to do after 
+taking the class. 
+
+Follow the guide here for writing competencies.
 
 - https://sph.uth.edu/content/uploads/2012/01/Competencies-and-Learning-Objectives.pdf
 
-# Course Outline/Topics
+## Course Outline/Topics 
 
-Paragraph (or three) explaining what will be learned in this class. 
+Paragraph (or three) explaining what will be learned in this class. This is expands on 
+Course description and learning outcomes. 
 
-# Class Sessions
+### Class Sessions 
 
-Should include the following for all class sessions. 
+List each class session. Include a *short* description of the topic and what will be 
+taught that session. 
 
 - Date
 - Time 
 - Location 
 - Overview 
 
-# Evaluation methods 
+Note! Time, Date, Location may not be available. If you have taught the class previously 
+use the times and from the previous quarter. You can also generalize with session 1, 2 
+etc. Or Session 1 Monday 10 AM. 
 
-**Must have Pass Fail Criteria** 
+## Evaluation methods 
 
-List of projects, course work, and other evaluations each judged on pass 
-fail basis. List the number or criteria required to pass class. 
+Make School does not provide grades but we do evaulate student work. Determine what 
+work assigned in class is required to pass. 
 
-# All Materials 
+All work must **Must have Pass Fail Criteria**!
+
+As a general guide list the number of projects and baseline challenges that must be 
+completed to pass the class. 
+
+## All Materials 
 
 Any resources to be used by students in class. Include books, videos
 blog posts and online articles. 
