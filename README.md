@@ -54,4 +54,8 @@ When completed submit it to the web team for inclusion in make School Web site.
 
 - https://github.com/MakeSchool-Tutorials/Tutorial-Template
 
+# Track your challenges with 
 
+Alan's amazing google doc spreadsheet master tracker:
+
+- https://docs.google.com/spreadsheets/d/1FZJv2AolWFZRUwx0fWTIilXurwVmHnYz-RY9XxF-KPA/edit#gid=0
