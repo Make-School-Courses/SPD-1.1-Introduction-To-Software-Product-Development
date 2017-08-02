@@ -1,5 +1,3 @@
-Class Template 
-
 # Title 
 
 ## Prerequisites
