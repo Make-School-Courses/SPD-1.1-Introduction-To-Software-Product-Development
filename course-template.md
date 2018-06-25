@@ -9,95 +9,35 @@ course.
 
 ## Prerequisites
 
-A list of prerequisites students need to be successful 
-in this class. Include previous classes you expect 
-students should have taken, and knowledge and skills 
-that students should have coming into the class.
+1. e.g. FEW 1.1
 
-1. Use an...
-1. ordered list. 
+## Learning Objectives or Competencies (5-8)
 
-### Who should enroll (optional)
+Students by the end of the course will be able to ...
 
-A short description of who would benefit most from 
-taking this class. This is optional. Include this if you 
-feel your class would not benefit everyone.
-
-## Competencies & Objectives
-
-A description of the skills a student aquire by taking 
-the class.
-
-Must be measurable! Make School does not have grades 
-but we do evaluate student progress. Usually this 
-will evaluate to something a student will be able to 
-do after taking the class.
-
-Follow the guide here for writing competencies.
+1. Avoid generic words like "understand" instead use active verbs like "explain, compare & contrast, build, implement, create" etc.
+1. list all competencies
 
 https://sph.uth.edu/content/uploads/2012/01/Competencies-and-Learning-Objectives.pdf
 
-1. List all of the course 
-1. Competencies here.
-1. Use an orderd list
-
-## Required Text and Materials (Optional)
-
-- List required materials here
-
-### Evaluation
-
-Define what students need to do to pass this class. 
-Be clear and accurate, avoid vague terms. 
-
-Make School does not provide grades but we do evaulate 
-student work. Determine what work assigned in class is 
-required to pass.
-
-All work must Must have Pass Fail Criteria!
-
-As a general guide list the number of projects and 
-baseline challenges that must be completed to pass the 
-class.
-
-Here is some more information on learning assessment.
-
-https://www.cte.cornell.edu/teaching-ideas/assessing-student-learning/measuring-student-learning.html
-
-- Use a list 
-
 ## Lessons
 
-- List your lessons here
-- Provide a link to each lesson
+1. List your lessons here
+1. Provide a link to each lesson
+1. Use an ordered list
+1. Should be ~13 planned lessons
+
+### Projects and Readings
+
+- List all of the projects and readings (i.e. tutorials, contractor project, custom projects, books, etc)
 - Use a list
 
-### Projects 
+## Evaluation
 
-- List all of the projects 
-- Use a list
+To pass this course you must meet the following requirements:
 
-### Vocabulary & Conventions
-
-- List vocabulary
-- and definitions 
-- for terms students 
-- need to understand
-- This is optional 
-
-### Best Practices
-
-- List best practices 
-- This is optional 
-
-### Resources
-
-Any resources to be used by students in class. Include:
-
-- books
-- videos
-- blog posts
-- online articles
-- links to tutorials
-- other media
-
+- No more than two no call no shows
+- No more than four excused absences
+- Make up all classwork from all absences
+- Finish all required tutorials and projects
+- Pass the final exam (summative assessment) >=80%
