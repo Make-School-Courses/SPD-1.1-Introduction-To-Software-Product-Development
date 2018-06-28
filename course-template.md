@@ -41,3 +41,7 @@ To pass this course you must meet the following requirements:
 - Make up all classwork from all absences
 - Finish all required tutorials and projects
 - Pass the final exam (summative assessment) >=80%
+
+## Make School Product College standard policy
+
+- https://github.com/Product-College-Courses/Course-Boilerplate
