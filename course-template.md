@@ -25,11 +25,11 @@ https://sph.uth.edu/content/uploads/2012/01/Competencies-and-Learning-Objectives
 1. List your lessons here
 1. Provide a link to each lesson
 1. Use an ordered list
-1. Should be ~13 planned lessons
+1. Should be ~13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
 
 ### Projects and Readings
 
-- List all of the projects and readings (i.e. tutorials, contractor project, custom projects, books, etc)
+- Link to all of the projects and readings (i.e. tutorials, contractor project, custom projects, books, etc)
 - Use a list
 
 ## Evaluation
@@ -42,6 +42,11 @@ To pass this course you must meet the following requirements:
 - Finish all required tutorials and projects
 - Pass the final exam (summative assessment) >=80%
 
-## Make School Product College standard policy
+## Make School Course Policies
 
-- https://github.com/Product-College-Courses/Course-Boilerplate
+[Academic Honesty](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Academic-Honesty-and-Plagiarism.md)
+[Accomodation Policy](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Accommodation-Policy.md)
+[Diversity Statement](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Diversity-Statement.md)
+[Evaluation Methods](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluation-Methods.md)
+[Title IX Disclaimer](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluations-Title-X-Disclaimer.md)
+[Program Learning Outcomes](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Program-Learning-Outcomes.md)
