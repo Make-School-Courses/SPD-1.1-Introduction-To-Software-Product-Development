@@ -2,10 +2,7 @@
 
 ## Course Description
 
-Describe your course here. 
-
-High level objectives. A short elevator pitch for the 
-course.
+Describe your course here. A short elevator pitch for the course. This will be listed as the course description in the course catalog.
 
 ## Prerequisites
 
