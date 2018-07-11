@@ -24,10 +24,12 @@ https://sph.uth.edu/content/uploads/2012/01/Competencies-and-Learning-Objectives
 1. Use an ordered list
 1. Should be ~13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
 
-### Projects and Readings
+## Tutorials & Projects
 
 - Link to all of the projects and readings (i.e. tutorials, contractor project, custom projects, books, etc)
 - Use a list
+
+## Other Resources
 
 ## Evaluation
 
