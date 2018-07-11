@@ -35,62 +35,50 @@ Should be ~13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
     - **In Class Activities**
     - **After Class**
 1. Lesson Title
-    - **Before Class**
     - **Class Topic**
     - **In Class Activities**
     - **After Class**
 1. Lesson Title
-    - **Before Class**
     - **Class Topic**
     - **In Class Activities**
     - **After Class**
 1. Lesson Title
-    - **Before Class**
     - **Class Topic**
     - **In Class Activities**
     - **After Class**
 1. Lesson Title
-    - **Before Class**
     - **Class Topic**
     - **In Class Activities**
     - **After Class**
 1. Lesson Title
-    - **Before Class**
     - **Class Topic**
     - **In Class Activities**
     - **After Class**
 1. Lesson Title
-    - **Before Class**
     - **Class Topic**
     - **In Class Activities**
     - **After Class**
 1. Lesson Title
-    - **Before Class**
     - **Class Topic**
     - **In Class Activities**
     - **After Class**
 1. Lesson Title
-    - **Before Class**
     - **Class Topic**
     - **In Class Activities**
     - **After Class**
 1. Lesson Title
-    - **Before Class**
     - **Class Topic**
     - **In Class Activities**
     - **After Class**
 1. Lesson Title
-    - **Before Class**
     - **Class Topic**
     - **In Class Activities**
     - **After Class**
 1. Lesson Title
-    - **Before Class**
     - **Class Topic**
     - **In Class Activities**
     - **After Class**
 1. Lesson Title
-    - **Before Class**
     - **Class Topic**
     - **In Class Activities**
     - **After Class**
