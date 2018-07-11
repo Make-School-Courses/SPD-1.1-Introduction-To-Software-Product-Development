@@ -4,15 +4,13 @@
 
 Describe your course here. A short elevator pitch for the course. This will be listed as the course description in the course catalog.
 
-<pre>
-Weeks to Completion:  7 
-Total Seat Hours:  37.5 hours 
-Total Out-of-Class Hours: 75 hours
-Total Hours: 112.5 hours
-Units:  3 units 
-Delivery Method:  Residential
-Class Sessions:  14 classes, 7 labs
-</pre>
+Weeks to Completion:  7 <br>
+Total Seat Hours:  37.5 hours <br>
+Total Out-of-Class Hours: 75 hours <br>
+Total Hours: 112.5 hours <br>
+Units:  3 units <br>
+Delivery Method:  Residential <br>
+Class Sessions:  14 classes, 7 labs 
 
 ## Prerequisites:  
 
