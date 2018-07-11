@@ -4,9 +4,19 @@
 
 Describe your course here. A short elevator pitch for the course. This will be listed as the course description in the course catalog.
 
-## Prerequisites
+<pre>
+Weeks to Completion:  7 
+Total Seat Hours:  37.5 hours 
+Total Out-of-Class Hours: 75 hours
+Total Hours: 112.5 hours
+Units:  3 units 
+Delivery Method:  Residential
+Class Sessions:  14 classes, 7 labs
+</pre>
 
-1. e.g. FEW 1.1
+## Prerequisites:  
+
+MOB 1.1, MOB 1.2, MOB 1.3, MOB 1.4 <br>
 
 ## Learning Objectives or Competencies (5-8)
 
@@ -19,10 +29,13 @@ https://sph.uth.edu/content/uploads/2012/01/Competencies-and-Learning-Objectives
 
 ## Lessons
 
-1. List your lessons here
-1. Provide a link to each lesson
-1. Use an ordered list
-1. Should be ~13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
+Should be ~13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
+
+1. Lesson Title
+  1. **Before Class**
+  1. 
+  1. **Lesson
+  1. **After Class**
 
 ## Tutorials & Projects
 
