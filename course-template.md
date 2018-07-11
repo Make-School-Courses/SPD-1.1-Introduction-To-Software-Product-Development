@@ -30,15 +30,71 @@ https://sph.uth.edu/content/uploads/2012/01/Competencies-and-Learning-Objectives
 Should be ~13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
 
 1. Lesson Title
-  - **Before Class**
-  - **Class Topic**
-  - **In Class Activities**
-  - **After Class**
+    - **Before Class**
+    - **Class Topic**
+    - **In Class Activities**
+    - **After Class**
 1. Lesson Title
-  1. **Before Class**
-  1. **Class Topic**
-  1. **In Class Activities**
-  1. **After Class**
+    - **Before Class**
+    - **Class Topic**
+    - **In Class Activities**
+    - **After Class**
+1. Lesson Title
+    - **Before Class**
+    - **Class Topic**
+    - **In Class Activities**
+    - **After Class**
+1. Lesson Title
+    - **Before Class**
+    - **Class Topic**
+    - **In Class Activities**
+    - **After Class**
+1. Lesson Title
+    - **Before Class**
+    - **Class Topic**
+    - **In Class Activities**
+    - **After Class**
+1. Lesson Title
+    - **Before Class**
+    - **Class Topic**
+    - **In Class Activities**
+    - **After Class**
+1. Lesson Title
+    - **Before Class**
+    - **Class Topic**
+    - **In Class Activities**
+    - **After Class**
+1. Lesson Title
+    - **Before Class**
+    - **Class Topic**
+    - **In Class Activities**
+    - **After Class**
+1. Lesson Title
+    - **Before Class**
+    - **Class Topic**
+    - **In Class Activities**
+    - **After Class**
+1. Lesson Title
+    - **Before Class**
+    - **Class Topic**
+    - **In Class Activities**
+    - **After Class**
+1. Lesson Title
+    - **Before Class**
+    - **Class Topic**
+    - **In Class Activities**
+    - **After Class**
+1. Lesson Title
+    - **Before Class**
+    - **Class Topic**
+    - **In Class Activities**
+    - **After Class**
+1. Lesson Title
+    - **Before Class**
+    - **Class Topic**
+    - **In Class Activities**
+    - **After Class**
+
 
 ## Tutorials & Projects
 
@@ -57,14 +113,10 @@ To pass this course you must meet the following requirements:
 
 ## Make School Course Policies
 
-[Academic Honesty](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Academic-Honesty-and-Plagiarism.md)
-
-[Accomodation Policy](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Accommodation-Policy.md)
-
-[Diversity Statement](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Diversity-Statement.md)
-
+[Academic Honesty](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Academic-Honesty-and-Plagiarism.md)<br>
+[Accomodation Policy](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Accommodation-Policy.md)<br>
+[Diversity Statement](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Diversity-Statement.md)<br>
 [Evaluation Methods](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluation-Methods.md)
-
-[Title IX Disclaimer](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluations-Title-X-Disclaimer.md)
-
+<br>
+[Title IX Disclaimer](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluations-Title-X-Disclaimer.md)<br>
 [Program Learning Outcomes](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Program-Learning-Outcomes.md)
