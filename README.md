@@ -86,7 +86,7 @@ Should be ~13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
 
 ## Tutorials & Projects
 
-- Link to all of the projects and readings (i.e. tutorials, contractor project, custom projects, books, etc)
+- Link to all of the technical tutorials, projects, and course-level assignments (i.e. tutorials, contractor project, custom projects, etc)
 - Use a list
 
 ## Evaluation
