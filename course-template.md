@@ -31,8 +31,13 @@ Should be ~13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
 
 1. Lesson Title
   1. **Before Class**
-  1. 
-  1. **Lesson
+  1. **Class Topic**
+  1. **In Class Activities**
+  1. **After Class**
+1. Lesson Title
+  1. **Before Class**
+  1. **Class Topic**
+  1. **In Class Activities**
   1. **After Class**
 
 ## Tutorials & Projects
