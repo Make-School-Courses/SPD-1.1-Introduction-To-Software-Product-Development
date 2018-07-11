@@ -4,6 +4,8 @@
 
 Describe your course here. A short elevator pitch for the course. This will be listed as the course description in the course catalog.
 
+## Course Specifics
+
 Weeks to Completion:  7 <br>
 Total Seat Hours:  37.5 hours <br>
 Total Out-of-Class Hours: 75 hours <br>
