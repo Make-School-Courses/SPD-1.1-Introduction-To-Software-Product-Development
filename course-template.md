@@ -29,8 +29,6 @@ https://sph.uth.edu/content/uploads/2012/01/Competencies-and-Learning-Objectives
 - Link to all of the projects and readings (i.e. tutorials, contractor project, custom projects, books, etc)
 - Use a list
 
-## Other Resources
-
 ## Evaluation
 
 To pass this course you must meet the following requirements:
