@@ -22,10 +22,11 @@ MOB 1.1, MOB 1.2, MOB 1.3, MOB 1.4 <br>
 
 Students by the end of the course will be able to ...
 
-1. Avoid generic words like "understand" instead use active verbs like "explain, compare & contrast, build, implement, create" etc.
-1. list all competencies
-
-https://sph.uth.edu/content/uploads/2012/01/Competencies-and-Learning-Objectives.pdf
+1. Identify & Describe
+1. Explain
+1. Compare & Contrast
+1. Design & Implement
+1. Master
 
 ## Lessons
 
