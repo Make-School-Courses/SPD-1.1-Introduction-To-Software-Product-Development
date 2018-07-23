@@ -48,57 +48,44 @@ To pass this course you must meet the following requirements:
 
 Should be ~13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
 
-1. Lesson Title
+1. Lesson Title & Topic
     - **Before Class**
-    - **Class Topic**
     - **In Class Activities**
     - **After Class**
-1. Lesson Title
-    - **Class Topic**
+1. Lesson Title & Topic
     - **In Class Activities**
     - **After Class**
-1. Lesson Title
-    - **Class Topic**
+1. Lesson Title & Topic
     - **In Class Activities**
     - **After Class**
-1. Lesson Title
-    - **Class Topic**
+1. Lesson Title & Topic
     - **In Class Activities**
     - **After Class**
-1. Lesson Title
-    - **Class Topic**
+1. Lesson Title & Topic
     - **In Class Activities**
     - **After Class**
-1. Lesson Title
-    - **Class Topic**
+1. Lesson Title & Topic
     - **In Class Activities**
     - **After Class**
-1. Lesson Title
-    - **Class Topic**
+1. Lesson Title & Topic
     - **In Class Activities**
     - **After Class**
-1. Lesson Title
-    - **Class Topic**
+1. Lesson Title & Topic
     - **In Class Activities**
     - **After Class**
-1. Lesson Title
-    - **Class Topic**
+1. Lesson Title & Topic
     - **In Class Activities**
     - **After Class**
-1. Lesson Title
-    - **Class Topic**
+1. Lesson Title & Topic
     - **In Class Activities**
     - **After Class**
-1. Lesson Title
-    - **Class Topic**
+1. Lesson Title & Topic
     - **In Class Activities**
     - **After Class**
-1. Lesson Title
-    - **Class Topic**
+1. Lesson Title & Topic
     - **In Class Activities**
     - **After Class**
-1. Lesson Title
-    - **Class Topic**
+1. Lesson Title & Topic
     - **In Class Activities**
     - **After Class**
 
