@@ -28,6 +28,22 @@ Students by the end of the course will be able to ...
 1. Design & Implement
 1. Master
 
+## Tutorials & Projects
+
+- Link to all of the technical tutorials, projects, and course-level assignments (i.e. tutorials, contractor project, custom projects, etc)
+- Use a list
+
+## Evaluation
+
+To pass this course you must meet the following requirements:
+
+- No more than two no call no shows
+- No more than four excused absences
+- Make up all classwork from all absences
+- Finish all required tutorials and projects
+- Pass the final exam (summative assessment) >=80%
+
+
 ## Lessons
 
 Should be ~13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
@@ -85,22 +101,6 @@ Should be ~13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
     - **Class Topic**
     - **In Class Activities**
     - **After Class**
-
-
-## Tutorials & Projects
-
-- Link to all of the technical tutorials, projects, and course-level assignments (i.e. tutorials, contractor project, custom projects, etc)
-- Use a list
-
-## Evaluation
-
-To pass this course you must meet the following requirements:
-
-- No more than two no call no shows
-- No more than four excused absences
-- Make up all classwork from all absences
-- Finish all required tutorials and projects
-- Pass the final exam (summative assessment) >=80%
 
 ## Make School Course Policies
 
