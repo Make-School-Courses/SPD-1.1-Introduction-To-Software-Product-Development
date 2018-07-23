@@ -43,7 +43,6 @@ To pass this course you must meet the following requirements:
 - Finish all required tutorials and projects
 - Pass the final exam (summative assessment) >=80%
 
-
 ## Lessons
 
 Should be ~13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
