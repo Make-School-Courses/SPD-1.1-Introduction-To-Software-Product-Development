@@ -52,16 +52,17 @@ Should be ~13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
 
 1. Introduction to Software Product Development & Problem Ideation
     - **Before Class** - think of problems that could be solved with technology
+    - **In Class Activities** - problem area brainstorm ... slides
+    - **After Class** - 
+1. Industry Analysis (PEST) & Ideation
     - **In Class Activities** - 
-    - **After Class** -
-1. Lesson Title & Topic
+    - **After Class** - 
+1. User Interviews
     - **In Class Activities**
     - **After Class**
-1. Lesson Title & Topic
-    - **In Class Activities**
-    - **After Class**
-1. Lesson Title & Topic
-    - **In Class Activities**
+1. Email Fundamentals
+    - **In Class Activities** 
+        - Professional Email Challenge - Students are required to complete a simulation in which they will respond to 10 emails using professional business communication standards outlined in these slides. These are realistic emails that most professionals will receive and send throughout their career. Student emails will be evaluated based on their how actionable, concise and appreciative. Assignment will be given in class.
     - **After Class**
 1. Lesson Title & Topic
     - **In Class Activities**
