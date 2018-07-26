@@ -88,19 +88,26 @@ Should be ~13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
     - **In Class Activities** 
         - *Reflective Best Self* activity - what are your superpowers as an up and coming professional engineer? This activity provides "feedback to participants about who they are when they are at their best. Participants request positive feedback from significant people in their lives, which they then synthesize into a cumulative portrait of their 'best self.' The exercise can be used as a tool for personal development because it provides valuable insights into the ways a person adds value and makes a contribution". 
     - **After Class**
-1. Pick Product Idea & User Narrative
+1. Pick Product Idea, User Persona & User Narrative
     - **In Class Activities**  
         - *Pick your Product Idea* - The time has come! We've collected research from our PEST and Competitive Analysis, from user interviews and feedback from industry contacts. You'll use all your understanding of the problem space to pick a product idea. The reminder of SPD 1.1 focuses on professional prototyping techniques, namely writing User Narratives, making Wire Frames and User Stories.
-        - *User Narrative* - Writing a user narrative is often the first step of product development. It involves "getting in the user's head" and drafting a set of actions that the user will take upon landing on your app or web page. Where will their eye look first? Where will they click next? Writing out the narrative ensures your site is intutive to the users needs. Once you have the narrative set, you can then move on to creating a draft spec of what your site will look like ... also known as a Wireframe. We'll make this wireframe in the next class.
+        - *User Persona* - Creating a user person is often the first step of product development. A User Persona is a representation of the type of persona who will use your product. Imagine it like a profile where you express the typical demographics, frustrations, and hopes of those who'd benefit from your solution. Writing a user persona helps you identify whom you are building for. Next you'll be able to start thinking about what your app experinece will look like for them.
+        - *User Narrative* -  User Narratives involves "getting in the user's head" to draft a set of "actions" the user will take upon landing on your app or web page. Where will their eye look first? Where will they click next? Writing out the narrative ensures your site is intutive to the users needs. Once you have the narrative done, you can then move on to creating a draft of what your site will look like ... also known as a Wireframe. We'll make this wireframe in the next class.
     - **After Class**
-1. Wireframes design
-    - **In Class Activities**
+1. Wireframes & Entity Relationship Diagrams (ERDs)
+    - **In Class Activities**  
+        - *Make a Wireframe* - a Wireframe is a skeletal blueprint of your app. Built off the User Narrative, Wireframes are often drawn on paper as a quick prototype of your app. "Wireframes depicts the page layout or arrangement of the website’s content, including navigational systems, interface elements, and how they work together. The wireframe usually lacks typographic style, color, or graphics, since the main focus lies in functionality, behavior, and priority of content. Wireframes can be pencil drawings or sketches on a whiteboard, or they can be produced by means of a broad array of free or commercial software applications". Wireframes are ment to be rough sketches that are iterated upon. 
+        - *Make an Entity Relationship Diagram* - Entity Relationship Digrams (ERDs), take your individual wireframe panes and connects them. ERDs takes all your wireframe pages (known as "entities") and maps out the different "actions" users can take to get from one entity to another. With the ERD, you'll have a clear vision for the app you will soon build in the week long "intensive" at the end of this term. 
     - **After Class**
 1. Agile Methodology & Backlog of User Stories
-    - **In Class Activities**
+    - **In Class Activities** 
+        - *Paper Plane activity" - this activity simulates Agile Development: the iterative process by which software developers make products and prioritize features.
+        - *Create a backlog of User Stories" - User Narratives are the set of actions a user will take once they land on your site. User Stories are one particular action within the narrative set. Before building their app, developers list out all the user stories in order to prioritize which should be built first. this activity simulates Agile Development: the iterative process by which software developers make products and prioritize features. Students are required to put their user stories in trello. Once complete, you'll be ready to build this app or another app idea during the week long intensive.
     - **After Class**
 1. Assessment: Test & submit 1000 word blogpost
     - **In Class Activities**
+        - *Take Test* - we'll take a test in person. Retake for those who miss is the wednesday the following week during class. See below for criteria to do x.
+        - *Peer review and publish blog posts*
     - **After Class**
 
 ## Make School Course Policies
