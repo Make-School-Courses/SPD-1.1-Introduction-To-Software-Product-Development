@@ -111,8 +111,8 @@ Should be ~13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
     - **After Class** - Relax. pat yourself on the back for your hard work!
 
 ## Huddle Schedule
-    - Week 1: Group Formation - Get to know your fellow classmates and establish a foundation of community
-        - Instructor facilitated discussion of principles of professional development and application of those principles to this cohort 
+* Week 1: Group Formation - Get to know your fellow classmates and establish a foundation of community
+    * Instructor facilitated discussion of principles of professional development and application of those principles to this cohort 
 
 * Week 1: Group Formation - Get to know your fellow classmates and establish a foundation of community
         - Instructor facilitated discussion of principles of professional development and application of those principles to this cohort and a professional community
