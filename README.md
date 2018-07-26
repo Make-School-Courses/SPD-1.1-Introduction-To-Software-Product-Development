@@ -21,7 +21,7 @@ Class Sessions:  14 classes, 7 labs
 
 None <br>
 
-## Learning Objectives or Competencies (5-8)
+## Learning Objectives or Competencies
 
 Students by the end of the course will be able to ...
 
@@ -54,7 +54,7 @@ To pass this course you must meet the following requirements:
 
 ## Lessons
 
-Should be ~13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
+13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
 
 1. Introduction to Software Product Development & Problem Ideation
     - **Before Class** - think of problems in the world that could be solved with technology
