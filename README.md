@@ -2,7 +2,10 @@
 
 ## Course Description
 
-Describe your course here. A short elevator pitch for the course. This will be listed as the course description in the course catalog.
+What makes for a great product idea? Which features should I prioritize? In this beginner project-based course, you’ll learn how to create products that people love. We’ll follow industry best practice of understand user needs (user interviews), build iterative prototypes (wireframes, user narratives, entity relationship diagrams, scoping), and do the work to validate your idea (user testing). This course teaches you how to get the right idea, that you will then ultimately build during the “week long intensive” – our word form of a hackathon – following completion of SPD 1. The lessons learned will apply to your work in other classes, too.
+
+This course also teaches the “success skills” necessary to become well-rounded product developer, including managing personal finances, building a healthy habits, and getting feedback from industry contacts and peers.
+
 
 ## Course Specifics
 
@@ -16,7 +19,7 @@ Class Sessions:  14 classes, 7 labs
 
 ## Prerequisites:  
 
-MOB 1.1, MOB 1.2, MOB 1.3, MOB 1.4 <br>
+None <br>
 
 ## Learning Objectives or Competencies (5-8)
 
@@ -47,10 +50,10 @@ To pass this course you must meet the following requirements:
 
 Should be ~13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
 
-1. Lesson Title & Topic
-    - **Before Class**
-    - **In Class Activities**
-    - **After Class**
+1. Introduction to Software Product Development & Problem Ideation
+    - **Before Class** - think of problems that could be solved with technology
+    - **In Class Activities** - 
+    - **After Class** -
 1. Lesson Title & Topic
     - **In Class Activities**
     - **After Class**
