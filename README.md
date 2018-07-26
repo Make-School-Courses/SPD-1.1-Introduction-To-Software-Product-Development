@@ -1,4 +1,4 @@
-# Title 
+# SPD 1.1 Introduction to Software Product Development
 
 ## Course Description
 
@@ -34,8 +34,7 @@ Students by the end of the course will be able to ...
 1. Demonstrate a diverse and individualized set of professional skills necessary to succeed while at Make School and beyond. (PLO 1) 
     - Assessment: Summative Assessment
 1. Consistently practice professional business communication that is actionable with an appreciative tone. (PLO 4, PLO 6)
-    - Assessment: Final Blog Post
-    - Rubric: [Written Communication Rubric (AAC&U Value Rubric)](https://drive.google.com/file/d/1Q7kd-JTwd8COOGNeSD43UoAivwF5_dWZ/view?usp=sharing)
+    - Assessment: Final Blog Post; Rubric: [Written Communication Rubric (AAC&U Value Rubric)](https://drive.google.com/file/d/1Q7kd-JTwd8COOGNeSD43UoAivwF5_dWZ/view?usp=sharing)
 
 ## Tutorials & Projects
 
