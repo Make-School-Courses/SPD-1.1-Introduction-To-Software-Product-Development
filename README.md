@@ -112,10 +112,10 @@ Should be ~13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
 
 ## Huddle Schedule
 * Week 1: Group Formation - Get to know your fellow classmates and establish a foundation of community
-    * Instructor facilitated discussion of principles of professional development and application of those principles to this cohort 
+        - Instructor facilitated discussion of principles of professional development and application of those principles to this cohort 
 
 * Week 1: Group Formation - Get to know your fellow classmates and establish a foundation of community
-        - Instructor facilitated discussion of principles of professional development and application of those principles to this cohort and a professional community
+Instructor facilitated discussion of principles of professional development and application of those principles to this cohort and a professional community
 Week 2: Goal & Priority Setting - Discuss personal goals and priorities for term 1 and the entirety of Make School
 Instructor facilitated discussion of principles of habit formation as it relates to setting personal goals and priorities
 Week 3: Appreciating Differences - Appreciating and understanding perspectives different than your own
