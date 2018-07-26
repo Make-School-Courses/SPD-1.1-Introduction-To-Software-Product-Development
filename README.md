@@ -52,20 +52,21 @@ Should be ~13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
 
 1. Introduction to Software Product Development & Problem Ideation
     - **Before Class** - think of problems that could be solved with technology
-    - **In Class Activities** - problem area brainstorm ... slides
-    - **After Class** - 
+    - **In Class Activities** - 
+        - "Problem Area" Brainstorm - Our goal as developers is to change the world with technology. That starts with understanding the problems in different markets and industries. In class, we'll explore problems that are important to us and start honing in on an area we'd like to further research throughout the course.
+    - **After Class** - make sure your draft blog post is in this link is here, 
 1. Industry Analysis (PEST) & Ideation
     - **In Class Activities** - 
-        - Conduct a PEST analysis - A PEST analysis is used understand the political, economic, social, and technological forces influencing a problem space. PEST analysis enables product developers to identify when the timing is ripe or stale for ideas in different markets. It thus acts as a useful tool in our journey to understand our problem space and where there is opportunity for us to make an impact.
-        - Conduct a Competitive Analysis - A Competitive Analsysis analyszes the technologies that are currently trying to address. While PEST Analysis answers "How is the problem space changing?" Competitive Analysis Answers "What solutions to the problem already exhist?"
-    - **After Class** - Add your PEST Analysis and Competitive Analysis findings in your blog post draft
+        - *Conduct a PEST analysis* - A PEST analysis is used understand the political, economic, social, and technological forces influencing a problem space. PEST analysis enables product developers to identify when the timing is ripe or stale for different ideas. It thus acts as a useful tool in our journey to understand our problem space and where there is opportunity for us to make an impact.
+        - *Conduct a Competitive Analysis* - A Competitive Analsysis analyszes the technologies that are currently trying to address. While PEST Analysis answers "How is the problem space changing?" Competitive Analysis Answers "What solutions to the problem already exhist?"
+    - **After Class** - Finish your PEST Analysis and Competitive Analysis, add your findings findings to your draft blog post
 1. User Interviews
     - **In Class Activities** 
-        - Design a Sample User Interview Script - Students are required to create a "User Interview Script" that we will eventually use in a future class period to conducting actual user interviews. While the PEST Analysis and Competitive Analysis give us a macro view of a problem space, User Interviews help us  see the problem from a new perspective - people experiencing it. Together, both forms of analysis enable us understand the problem's nuance better. You can find User interview best practices in these class slides and this template.
+        - *Design a Sample User Interview Script* - Students are required to create a "User Interview Script" that we will eventually use in a future class period to conducting actual user interviews. While the PEST Analysis and Competitive Analysis give us a macro view of a problem space, User Interviews help us  see the problem from a new perspective - people experiencing it. Together, both forms of analysis enable us understand the problem's nuance better. You can find User interview best practices in these class slides and this template.
     - **After Class** - finish your user interview script, schedule interviews with target people, targets being x.
 1. Email Fundamentals
     - **In Class Activities** 
-        - Professional Email Challenge - Students are required to complete a simulation in which they will respond to ~10 emails using professional business communication standards outlined in [these slides](https://docs.google.com/presentation/d/18TCD_bh5rBBMyT2NvWj0roGJodb8UzHyj2yaPbnkNNM/edit#slide=id.p). These are realistic email topics mimic what most professionals will receive and send throughout their career. Student emails will be evaluated based on their how actionable, concise and appreciative. Assignment will be given in class.
+        - Professional Email Challenge - Students are required to complete a simulation in which they will respond to ~10 emails using professional business communication standards outlined in [these slides](https://docs.google.com/presentation/d/18TCD_bh5rBBMyT2NvWj0roGJodb8UzHyj2yaPbnkNNM/edit#slide=id.p). These are realistic email topics mimic what most product developers and professionals will receive and send throughout their career. Student emails will be evaluated based on their how actionable, concise and appreciative. Assignment will be given in class.
     - **After Class**
 1. Rejection Therapy - User Interview Lab
     - **In Class Activities**
