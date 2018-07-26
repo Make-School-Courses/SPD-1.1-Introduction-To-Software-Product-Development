@@ -53,8 +53,8 @@ Should be ~13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
 1. Introduction to Software Product Development & Problem Ideation
     - **Before Class** - think of problems that could be solved with technology
     - **In Class Activities** - 
-        - "Problem Area" Brainstorm - Our goal as developers is to change the world with technology. That starts with understanding the problems in different markets and industries. In class, we'll explore problems that are important to us and start honing in on an area we'd like to further research throughout the course.
-    - **After Class** - make sure your draft blog post is in this link is here, 
+        - "Problem Area" Brainstorm - Our goal as developers is to change the world with technology. That starts with understanding the problems that affect different markets and industries. In class, we'll explore problems that are important to us and start honing in on an area we'd like to further research throughout the course.
+    - **After Class** - make sure your draft blog post is in this link is here, continue thinking about problems you'd like to solve with technology. Pick your domain here.
 1. Industry Analysis (PEST) & Ideation
     - **In Class Activities** - 
         - *Conduct a PEST analysis* - A PEST analysis is used understand the political, economic, social, and technological forces influencing a problem space. PEST analysis enables product developers to identify when the timing is ripe or stale for different ideas. It thus acts as a useful tool in our journey to understand our problem space and where there is opportunity for us to make an impact.
@@ -66,25 +66,32 @@ Should be ~13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
     - **After Class** - finish your user interview script, schedule interviews with target people, targets being x.
 1. Email Fundamentals
     - **In Class Activities** 
-        - Professional Email Challenge - Students are required to complete a simulation in which they will respond to ~10 emails using professional business communication standards outlined in [these slides](https://docs.google.com/presentation/d/18TCD_bh5rBBMyT2NvWj0roGJodb8UzHyj2yaPbnkNNM/edit#slide=id.p). These are realistic email topics mimic what most product developers and professionals will receive and send throughout their career. Student emails will be evaluated based on their how actionable, concise and appreciative. Assignment will be given in class.
-    - **After Class**
+        - Professional Development: Professional Email Challenge - Students are required to complete a simulation in which they will respond to ~10 emails using professional business communication standards outlined in [these slides](https://docs.google.com/presentation/d/18TCD_bh5rBBMyT2NvWj0roGJodb8UzHyj2yaPbnkNNM/edit#slide=id.p). These are realistic email topics mimic what most product developers and professionals will receive and send throughout their career. Student emails will be evaluated based on their how actionable, concise and appreciative. Assignment will be given in class.
+    - **After Class** - email a few people to conduct a potential user interview
 1. Rejection Therapy - User Interview Lab
-    - **In Class Activities**
-    - **After Class**
+    - **In Class Activities** 
+        - *User Interview Challenge (Rejection Therapy)* - Each student will "get out of the building" to conduct actual user interviews. Interviewees can include someone you randomly approach on streets, someone from an organization related to your problem area whom you "cold call".  These interviews will further develop your understanding of your problem space. Building something that matters requires resillience. Remember to base your interview analysis on more than just one person. Remember too that your thinking about the problem will likely adapt as you continue to gain more perspectives. Some students may conduct interviews prior to class.
+    - **After Class** - add notes about your experinece and learnings conducting user interviews to your draft blog post
 1. Engaging MS Partners & Industry Mentors & Professionals
-    - **In Class Activities**
+    - **In Class Activities**   
+        - *Professional Development: ICon (Industry Contact) Challenge* - Students must connect and meet with a professional engineer to learn about their work, product development process, and get advice. They can do so through Make School’s [list of volunteer mentors](https://docs.google.com/spreadsheets/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit#gid=0). In class we'll discuss professional communication strategy and each draft our own reach out email. This content builds off of the Professional Risk Challenge and Email simulation and will build into the Cold Emails content in later terms.
     - **After Class**
 1. Procrastination & Work Life Balance
-    - **In Class Activities**
+    - **In Class Activities**   
+        - *Professional Development: Habit Formation Challenge* - Students are required to complete the Habit Planner Worksheet to reflect on current habits and design new habits using Dr. BJ Fogg’s [tiny habits method](https://docs.google.com/document/d/17ED5byHHeYsJhF15cLZzrC7da1HbmdDoBCS1maCbBQE/edit). Students will work with their coach to reflect on habit adoption. Students must successfully adopt or change one habit - the final exam will ask you about your habit and how you adopted it. These habits will be the foundation of your productivity for years to come.
     - **After Class**
 1. Networking Events & Professionalism
-    - **In Class Activities**
-    - **After Class**
+    - **In Class Activities** 
+        - *Professional Development: Networking Simulation* - Networking events are incredible opportunities to get advice and feedback from professional engineers. In class, we'll simulate the dynamics of a professional networking event - entering and leaving conversations, exchanging business cards, explaining Make School, sparking conversation. In no time you'll have a solid strategy to make use of San Francisco's many meetups and events. Content of this exercise builds into the career prep curriculum.
+    - **After Class** - sign up for one of these networking events
 1. Reflective Best Selt
-    - **In Class Activities**
+    - **In Class Activities** 
+        - *Reflective Best Self* activity - what are your superpowers as an up and coming professional engineer? This activity provides "feedback to participants about who they are when they are at their best. Participants request positive feedback from significant people in their lives, which they then synthesize into a cumulative portrait of their 'best self.' The exercise can be used as a tool for personal development because it provides valuable insights into the ways a person adds value and makes a contribution". 
     - **After Class**
 1. Pick Product Idea & User Narrative
-    - **In Class Activities**
+    - **In Class Activities**  
+        - *Pick your Product Idea* - The time has come! We've collected research from our PEST and Competitive Analysis, from user interviews and feedback from industry contacts. You'll use all your understanding of the problem space to pick a product idea. The reminder of SPD 1.1 focuses on professional prototyping techniques, namely writing User Narratives, making Wire Frames and User Stories.
+        - *User Narrative* - Writing a user narrative is often the first step of product development. It involves "getting in the user's head" and drafting a set of actions that the user will take upon landing on your app or web page. Where will their eye look first? Where will they click next? Writing out the narrative ensures your site is intutive to the users needs. Once you have the narrative set, you can then move on to creating a draft spec of what your site will look like ... also known as a Wireframe. We'll make this wireframe in the next class.
     - **After Class**
 1. Wireframes design
     - **In Class Activities**
