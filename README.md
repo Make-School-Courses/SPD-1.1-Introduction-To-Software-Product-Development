@@ -25,16 +25,23 @@ None <br>
 
 Students by the end of the course will be able to ...
 
-1. Identify & Describe
-1. Explain
-1. Compare & Contrast
-1. Design & Implement
-1. Master
+1. Compare and contrast the benefits and drawbacks of Waterfall vs. Agile methodology, and follow iterative processes of user interviews, wireframes, and user narratives. (PLO 1 & 3) 
+    - Assessment: Summative Assessment
+1. Explain various strategies to evaluate a problem space and product opportunities including PEST Analysis, Competitive Analysis, and User Interviews (PLO 5)
+    -  Assessment: Summative Assessment
+1. Create a prototypes of a product using User Personas, User Narratives, Wireframes Entity Relationship Diagrams and resource based scoping (PLO 3)
+    - Assessment: Summative Assessment
+1. Demonstrate a diverse and individualized set of professional skills necessary to succeed while at Make School and beyond. (PLO 1) 
+    - Assessment: Summative Assessment
+1. Consistently practice professional business communication that is actionable with an appreciative tone. (PLO 4, PLO 6)
+    - Assessment: Final Blog Post
+    - Rubric: [Written Communication Rubric (AAC&U Value Rubric)](https://drive.google.com/file/d/1Q7kd-JTwd8COOGNeSD43UoAivwF5_dWZ/view?usp=sharing)
 
 ## Tutorials & Projects
 
-- Link to all of the technical tutorials, projects, and course-level assignments (i.e. tutorials, contractor project, custom projects, etc)
-- Use a list
+- [SPD 1.1 Blog Post: Identifying and Solving Problems](https://docs.google.com/document/d/1qivWC5VE4bo7A0YYgJ6dgnW1dV61QGIeSXBwfc4kkF0/edit) -  link has the fully fledged assignment. Work on this assignment throughout the course instead of saving it for last minute. This blog post will serve as a valuable portfolio to demonstrate your skill to recruiters. This [Written Communication Rubric (AAC&U Value Rubric)](https://drive.google.com/file/d/1Q7kd-JTwd8COOGNeSD43UoAivwF5_dWZ/view?usp=sharing) will be used to evaluate your work.
+- Classroom activities mentioned below
+- Shipped product - Term 1 ends with a one week "intensive" soley focused on designing, coding and shiping your own original product. We'll use this [portfolio project rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit?usp=drive_web&ouid=102349547791146369642) to evaluate your work.
 
 ## Evaluation
 
@@ -106,28 +113,38 @@ Should be ~13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
     - **After Class**
 1. Assessment: Test & submit 1000 word blogpost
     - **In Class Activities**
-        - *Take Test* - you'll take an assessment that cover the content from SPD 1.1. I recommend you review class slides and understand the major ideas taught in each activity. Don't sweat it too much. Those who miss this in-class assessment have the option to retake it the the Wednesday during the weeklong intensity.
+        - *Summative Assessment* - you'll take an assessment that cover the content from SPD 1.1. I recommend you review class slides and understand the major ideas taught in each activity. Don't sweat it too much. Those who miss this in-class assessment have the option to retake it the the Wednesday during the weeklong intensity.
         - *Peer review and publish blog posts* - class will close with us peer editing each other's blog posts and hitting PUBLISH! We'll then celebrate with popcorn or whatever treat Dan brings in ;)
     - **After Class** - Relax. pat yourself on the back for your hard work!
 
-## Huddle Schedule
+## Huddle Schedule - daily morning group meeting
 * Week 1: Group Formation - Get to know your fellow classmates and establish a foundation of community
-        - Instructor facilitated discussion of principles of professional development and application of those principles to this cohort 
+    * Instructor facilitated discussion of principles of professional development and application of those principles to this cohort 
+* Week 2: Goal & Priority Setting - Discuss personal goals and priorities for term 1 and the entirety of Make School
+    * Instructor facilitated discussion of principles of habit formation as it relates to setting personal goals and priorities
+* Week 3: Appreciating Differences - Appreciating and understanding perspectives different than your own
+    * Instructor facilitated discussion of principles of business communication as it relates to this cohort and in a professional work setting 
+* Week 4: Calendar & Productivity - Optimizing your calendar, work flows and habits to be productive
+    * Instructor facilitated discussion of principles of peak performance and how to organize one’s own work system to optimize performance
+* Week 5: Imposter Syndrome - Overcoming imposter syndrome and professional challenges
+    * Instructor facilitated discussion of principles of positive psychology and mindset as it relates to professional challenges
+* Week 6: Industry Contacts & Mentorship - Connecting with industry contacts and mentors and utilizing feedback
+    * Instructor facilitated discussion of principles for finding mentors and making use of mentorship conversation to improve one’s own professionalism and performance
+* Week 7: Reflections - Reflections on term 1 and goals to make Term 2 even better
+    * Instructor facilitated reflections on lessons learned from the term and how best to adjust one’s work system to evolving professional demands
 
-* Week 1: Group Formation - Get to know your fellow classmates and establish a foundation of community
-Instructor facilitated discussion of principles of professional development and application of those principles to this cohort and a professional community
-Week 2: Goal & Priority Setting - Discuss personal goals and priorities for term 1 and the entirety of Make School
-Instructor facilitated discussion of principles of habit formation as it relates to setting personal goals and priorities
-Week 3: Appreciating Differences - Appreciating and understanding perspectives different than your own
-Instructor facilitated discussion of principles of business communication as it relates to this cohort and in a professional work setting 
-Week 4: Calendar & Productivity - Optimizing your calendar, work flows and habits to be productive
-Instructor facilitated discussion of principles of peak performance and how to organize one’s own work system to optimize performance
-Week 5: Imposter Syndrome - Overcoming imposter syndrome and professional challenges
-Instructor facilitated discussion of principles of positive psychology and mindset as it relates to professional challenges
-Week 6: Industry Contacts & Mentorship - Connecting with industry contacts and mentors and utilizing feedback
-Instructor facilitated discussion of principles for finding mentors and making use of mentorship conversation to improve one’s own professionalism and performance
-Week 7: Reflections - Reflections on term 1 and goals to make Term 2 even better
-Instructor facilitated reflections on lessons learned from the term and how best to adjust one’s work system to evolving professional demands
+## Coaching Schedule - one-to-one meeting between instructor and student, once per weeks
+This is a general set of guidelines that will ebb and flow depending on the progress of the students.
+- Do a code review
+- Review theories, principles, and topics related to SPD course material
+- In the context of professional development, discuss interests, motivations, and goals
+- Review professional development activities and skills: 
+    - Review calendaring and how you structure your days and time
+    - Audit your productivity system (time blocking, prevent distractions, single source of truth, prioritization, resourcefulness)
+    - Audit your professional and personal habits that support your success
+    - Audit efforts to seek out feedback from mentors and peers
+- Review of internship readiness 
+- What do you want to continue doing next term and what do you want to change?
 
 
 ## Make School Course Policies
