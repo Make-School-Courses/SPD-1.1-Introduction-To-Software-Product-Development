@@ -93,8 +93,8 @@ To pass this course you must meet the following requirements:
 1. Reflective Best Selt
     - **In Class Activities** 
         - *Reflective Best Self* activity - what are your superpowers as an up and coming professional engineer? This activity provides "feedback to participants about who they are when they are at their best. Participants request positive feedback from significant people in their lives, which they then synthesize into a cumulative portrait of their 'best self.' The exercise can be used as a tool for personal development because it provides valuable insights into the ways a person adds value and makes a contribution". 
-    - **After Class** - 1) finish the Reflective Best Self activity and 2) share your content with your coach
-1. Pick Product Idea, User Persona & User Narrative
+    - **After Class** - 1) finish the Reflective Best Self activity and 2) share your content with your coach 3) Pick a product idea to start building in our next class
+1. Pick Product Idea, Scope and Design
     - **In Class Activities**  
         - *Pick your Product Idea* - The time has come! We've collected research from our PEST and Competitive Analysis, from user interviews and feedback from industry contacts. You'll use all this data about the problem space to pick a product idea. The remainder of SPD 1.1 focuses on prototyping techniques, namely writing User Narratives, making Wire Frames and User Stories.
         - *User Persona* - Creating a user person is often the first step of product development. A User Persona is a representation of the type of persona who will use your product. Imagine it like a profile of the typical demographics, frustrations, and hopes of people who'd benefit from your solution. Writing a user persona helps you get in the mind of whom you are building for. From there you'll be able to start thinking about what your app experinece will look like for them, as captured in our next tool: User Narratives.
