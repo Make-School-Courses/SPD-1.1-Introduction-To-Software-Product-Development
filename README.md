@@ -88,9 +88,9 @@ To pass this course you must meet the following requirements:
    - **After Class** - 1) email your industry contact and set up a call. If they don't respond after three days reping. If they don't respond after three reach out attempts, select another mentor and repeat! 2) after your call, add notes on what you've learnred to your draft blog post.
 
 ## 7. Procrastination & Work Life Balance
-    - **In Class Activities**   
-        - *Habit Formation Challenge* - How can you beat procrastination? Students are required to complete the Habit Planner Worksheet to reflect on current habits and design new work habits using Dr. BJ Fogg’s [tiny habits method](https://docs.google.com/document/d/17ED5byHHeYsJhF15cLZzrC7da1HbmdDoBCS1maCbBQE/edit). Students will work with their coach to reflect on habit adoption. Students must successfully adopt or change one habit - the final exam will ask you about your habit and how you adopted it. These habits will be the foundation of your productivity for years to come.
-    - **After Class** - 1) plan to execute your new work habit over the following weeks 2) consult your coach on the content of your habit planner worksheet your habit of choice.
+   - **In Class Activities**   
+      - *Habit Formation Challenge* - How can you beat procrastination? Students are required to complete the Habit Planner Worksheet to reflect on current habits and design new work habits using Dr. BJ Fogg’s [tiny habits method](https://docs.google.com/document/d/17ED5byHHeYsJhF15cLZzrC7da1HbmdDoBCS1maCbBQE/edit). Students will work with their coach to reflect on habit adoption. Students must successfully adopt or change one habit - the final exam will ask you about your habit and how you adopted it. These habits will be the foundation of your productivity for years to come.
+   - **After Class** - 1) plan to execute your new work habit over the following weeks 2) consult your coach on the content of your habit planner worksheet your habit of choice.
 
 ## 8. Pick Product Idea, Scope and Design
    - **In Class Activities**  
@@ -118,8 +118,8 @@ To pass this course you must meet the following requirements:
 
 ## 12. Agile Methodology & Backlog of User Stories
    - **In Class Activities** 
-      - *Paper Plane activity" - this activity simulates Agile Development: the iterative process by which software developers make products and prioritize features. The activity will help frame the work ahead.
-      - *Create a backlog of User Stories" - User Narratives are the set of actions a user will take once they land on your site. User Stories are one particular action within that narrative set. Before building their app, developers list out all the user stories in order to prioritize which should be built first. Once complete, you'll be ready to build this app or another app idea during the week long intensive.
+      - *Paper Plane activity* - this activity simulates Agile Development: the iterative process by which software developers make products and prioritize features. The activity will help frame the work ahead.
+      - *Create a backlog of User Stories* - User Narratives are the set of actions a user will take once they land on your site. User Stories are one particular action within that narrative set. Before building their app, developers list out all the user stories in order to prioritize which should be built first. Once complete, you'll be ready to build this app or another app idea during the week long intensive.
    - **After Class** - 1) Finish your backlog of User Stories 2) Finish your blog post and submit it here.
 ## 13. Assessment: Test & submit 1000 word blogpost
    - **In Class Activities**
