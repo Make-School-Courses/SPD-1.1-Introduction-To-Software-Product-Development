@@ -56,13 +56,13 @@ To pass this course you must meet the following requirements:
 
 13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
 
-1. Introduction to Software Product Development & Problem Ideation
-    - **Before Class** - think of problems in the world that could be solved with technology
-    - **In Class Activities** - 
+## 1. Introduction to Software Product Development & Problem Ideation
+   - **Before Class** - think of problems in the world that could be solved with technology
+   - **In Class Activities** - 
         - *"Problem Area" Brainstorm* - Our goal as developers is to change the world with technology. That starts with understanding the problems that affect different markets and industries. In class, we'll explore problems that are important to us and start honing in on a problem area we'd like to further research throughout the course. You'll record your reflections from this activity in your blog post.
     - **After Class** - 1) make sure your draft blog post is in this link is here, 2) continue thinking about problems you'd like to solve with technology, 3) pick your domain here, 4) read the entire syllabus for this class
-1. Industry Analysis (PEST) & Ideation
-    - **In Class Activities** - 
+## 2. Industry Analysis (PEST) & Ideation
+  - **In Class Activities** - 
         - *Conduct a PEST analysis* - A PEST analysis is used understand the political, economic, social, and technological forces influencing a problem space. PEST analysis enables product developers to identify when the timing is ripe or stale for different ideas. It thus acts as a useful tool in our journey to understand our problem space and where there is opportunity for us to make an impact.
         - *Conduct a Competitive Analysis* - A Competitive Analsysis examines the technologies that are currently trying to address the problem space. Understanding these competitors helps you identify people and organizations who are underserved. While PEST Analysis answers "How is the problem space changing?" Competitive Analysis Answers "What solutions to the problem already exhist?" 
     - **After Class** - 1) Finish your PEST Analysis and Competitive Analysis, 2) add your PEST and Comeptitive Analysis findings to your draft blog post, 3) Read the following in preparation for next class [Customer Discovery Video (3 min)](https://steveblank.com/2014/06/28/customer-discovery-the-search-for-productmarket-fit-2-minutes-to-see-why/) and [Art of the User Interview](https://medium.springboard.com/the-art-of-the-user-interview-cf40d1ca62e8) for next class.
