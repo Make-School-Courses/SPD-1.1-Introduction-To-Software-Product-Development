@@ -103,6 +103,7 @@ To pass this course you must meet the following requirements:
 ## 9. Networking Events & Professionalism
    - **In Class Activities** 
       - *Networking Simulation* - Networking events are incredible opportunities to get advice and feedback from professional engineers. In class, we'll simulate the dynamics of a professional networking event - entering and leaving conversations, exchanging business cards, explaining Make School, sparking conversation. In no time you'll have a solid strategy to make use of San Francisco's many meetups and events. Who knows, you may meet your future employer. Content of this exercise builds into the career prep curriculum.
+      - *Product Landing Page* - Create a landing page for your product idea that you can use to ask people to sign up for your app and get feedback on it.
    - **After Class** - sign up for one of the listed networking events
 
 ## 10. Wireframes
