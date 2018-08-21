@@ -38,9 +38,9 @@ Students by the end of the course will be able to ...
 
 ## Tutorials & Projects
 
-- **Due Oct 10th** [SPD 1.1 Blog Post: Identifying and Solving Problems](https://docs.google.com/document/d/1qivWC5VE4bo7A0YYgJ6dgnW1dV61QGIeSXBwfc4kkF0/edit) -  link has the fully fledged assignment. Work on this assignment throughout the course instead of saving it for last minute. This blog post will serve as a valuable portfolio to demonstrate your skill to recruiters. This [Written Communication Rubric (AAC&U Value Rubric)](https://drive.google.com/file/d/1Q7kd-JTwd8COOGNeSD43UoAivwF5_dWZ/view?usp=sharing) will be used to evaluate your work.
+- **Due Oct 10th:** [SPD 1.1 Blog Post: Identifying and Solving Problems](https://docs.google.com/document/d/1qivWC5VE4bo7A0YYgJ6dgnW1dV61QGIeSXBwfc4kkF0/edit) -  link has the fully fledged assignment. Work on this assignment throughout the course instead of saving it for last minute. This blog post will serve as a valuable portfolio to demonstrate your skill to recruiters. This [Written Communication Rubric (AAC&U Value Rubric)](https://drive.google.com/file/d/1Q7kd-JTwd8COOGNeSD43UoAivwF5_dWZ/view?usp=sharing) will be used to evaluate your work.
 - Classroom activities mentioned below
-- **Due Oct 19th, started Oct 15th** Shipped product - Term 1 ends with a one week "intensive" soley focused on designing, coding and shiping your own original product. We'll use this [portfolio project rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit?usp=drive_web&ouid=102349547791146369642) to evaluate your work.
+- **Due Oct 19th, started Oct 15th:** Shipped product - Term 1 ends with a one week "intensive" soley focused on designing, coding and shiping your own original product. We'll use this [portfolio project rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit?usp=drive_web&ouid=102349547791146369642) to evaluate your work.
 
 ## Evaluation
 
