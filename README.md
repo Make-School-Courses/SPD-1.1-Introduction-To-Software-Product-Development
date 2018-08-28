@@ -56,7 +56,7 @@ To pass this course you must meet the following requirements:
 
 13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
 
-## 1. Introduction to Software Product Development & Problem Ideation
+## 1. Introduction to Software Product Development & Problem Ideation ([Class Slides](https://docs.google.com/presentation/d/1T2SdWncAHL3hHniAdbYXEzoP-HGHmR5ffHj5TooBY-g/edit?usp=drive_web&ouid=102349547791146369642))
    - **Before Class** - think of problems in the world that could be solved with technology
    - **In Class Activities** - 
         - *"Problem Area" Brainstorm* - Our goal as developers is to change the world with technology. That starts with understanding the problems that affect different markets and industries. In class, we'll explore problems that are important to us and start honing in on a problem area we'd like to further research throughout the course. You'll record your reflections from this activity in your blog post.
