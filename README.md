@@ -78,10 +78,10 @@ To pass this course you must meet the following requirements:
      - *Professional Email Challenge* - Masterful product developers are experts at communicating with people inside and outside their organization. Students are required to complete a simulation in which they will reply ~10 email prompts using professional business communication standards outlined in [these slides](https://docs.google.com/presentation/d/18TCD_bh5rBBMyT2NvWj0roGJodb8UzHyj2yaPbnkNNM/edit#slide=id.p). These prompts mimic emails you will receive and send throughout their career and in future classes of this term. Student emails will be evaluated based on their how actionable, concise and appreciative they. Assignment will be given in class.
    - **After Class** - 1) get feedback from a peer on your email drafts 2) email a few people to conduct a user interview with them 3) you can schedule user interviews to occur from Wed 9/12 from 10:30-11:30am [Class Slides](https://docs.google.com/presentation/d/18TCD_bh5rBBMyT2NvWj0roGJodb8UzHyj2yaPbnkNNM/edit?usp=drive_web&ouid=102349547791146369642)
 
-## 5. Rejection Therapy - User Interview Lab
+## 5. Rejection Therapy - User Interview Lab ([Class Slides](https://drive.google.com/file/d/1DlBg4p7lRJqCAmBEAYiNehleVmr0Ifq7/view?usp=sharing))
   - **In Class Activities** 
      - *User Interview Challenge (Rejection Therapy)* - Each student will "get out of the building" to conduct actual user interviews. Interviewees may include someone you randomly approach on streets, someone from an organization related to your problem area whom you "cold call".  These interviews will further develop your understanding of your problem space. Building something that matters requires resillience. Many will say "no" to your interview request. Stay resillient! As you conduct interviews, Remember that your thinking about the problem will adapt as you gain more data. Remember to rely on more than one person's perspective.  Some students may conduct interviews prior to class.
-   - **After Class** - 1) add notes about your experinece and learnings conducting user interviews to your draft blog post
+   - **After Class** - 1) add notes about your experinece and learnings conducting user interviews to your draft blog post 2) Finish your Make School portfolio at make.sc/portfolio, including all projects, bio, social media (up to date LinkedIn), professional headshot, articles you've written
 
 ## 6. Engaging MS Partners & Industry Mentors & Professionals
    - **In Class Activities**
