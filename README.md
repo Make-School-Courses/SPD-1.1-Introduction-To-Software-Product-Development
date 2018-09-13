@@ -123,7 +123,7 @@ To pass this course you must meet the following requirements:
       - *Create a backlog of User Stories* - User Narratives are the set of actions a user will take once they land on your site. User Stories are one particular action within that narrative set. Before building their app, developers list out all the user stories in order to prioritize which should be built first. Once complete, you'll be ready to build this app or another app idea during the week long intensive.
    - **After Class** - 1) Finish your backlog of User Stories 2) Finish your blog post and submit it here; [Class Slides](https://drive.google.com/file/d/1b72IU1gYddSjqyzdByiUJYKCd2HQYYQK/view?usp=sharing)
 
-## 13. Assessment: Test & submit 2000 word blogpost
+## 13. Assessment: Test & submit 1,500 word blogpost
    - **In Class Activities**
      - *Summative Assessment* - you'll take an assessment that cover the content from SPD 1.1. I recommend you review class slides and understand the major ideas taught in each activity. Don't sweat it too much. Those who miss this in-class assessment have the option to retake it the the Wednesday during the weeklong intensity.
      - *Peer review and publish blog posts* - class will close with us peer editing each other's blog posts and hitting PUBLISH! We'll then celebrate with popcorn or whatever treat Dan brings in ;)
