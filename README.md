@@ -2,7 +2,7 @@
 
 ## Course Description
 
-What makes for a great product idea? Which features should I prioritize? In this beginner project-based course, you’ll learn how to create products that people love. We’ll follow industry best practice of understand user needs (user interviews), build iterative prototypes (wireframes, user narratives, entity relationship diagrams, scoping), and do the work to validate your idea (user testing). This course teaches you how to get the right idea, that you will then ultimately build during the “week long intensive” – our word form of a hackathon – following completion of SPD 1. The lessons learned will apply to your work in other classes, too.
+What makes for a great product idea? Which features should I prioritize? In this beginner project-based course, you’ll learn how to create products that people love. We’ll follow industry best practice of understand user needs (user interviews), build iterative prototypes (wireframes, user journeys, entity relationship diagrams, scoping), and do the work to validate your idea (user testing). This course teaches you how to get the right idea, that you will then ultimately build during the “week long intensive” – our word form of a hackathon – following completion of SPD 1. The lessons learned will apply to your work in other classes, too.
 
 This course also teaches the “success skills” necessary to become a well-rounded product developer, including using professional communication best practices, building healthy habits, and getting feedback from industry contacts and peers.
 
@@ -25,11 +25,11 @@ None <br>
 
 Students by the end of the course will be able to ...
 
-1. Compare and contrast the benefits and drawbacks of Waterfall vs. Agile methodology, and follow iterative processes of user interviews, wireframes, and user narratives. (PLO 1 & 3) 
+1. Compare and contrast the benefits and drawbacks of Waterfall vs. Agile methodology, and follow iterative processes of user interviews, wireframes, and user journeys. (PLO 1 & 3) 
     - Assessment: Summative Assessment
 1. Explain various strategies to evaluate a problem space and product opportunities including PEST Analysis, Competitive Analysis, and User Interviews (PLO 5)
     -  Assessment: Summative Assessment
-1. Create a prototypes of a product using User Personas, User Narratives, Wireframes Entity Relationship Diagrams and resource based scoping (PLO 3)
+1. Create a prototypes of a product using User Personas, User Journeys, Wireframes Entity Relationship Diagrams and resource based scoping (PLO 3)
     - Assessment: Summative Assessment
 1. Demonstrate a diverse and individualized set of professional skills necessary to succeed while at Make School and beyond. (PLO 1) 
     - Assessment: Summative Assessment
@@ -96,7 +96,7 @@ To pass this course you must meet the following requirements:
 ## 8. Pick Product Idea: Scope and Design ([Class Slides](https://docs.google.com/presentation/d/1UKVsUOCxQPNT3P42cvsTYxhNl7lpsDHjJew_a5K1JaM/edit#slide=id.p))
    - **In Class Activities**  
       - *Pick your Product Idea* - The time has come! We've collected research from our PEST and Competitive Analysis, from user interviews and feedback from industry contacts.  You'll use all this data about the problem space to pick a product idea. How is your idea different from the competition? What needs are they not serving. The remainder of SPD 1.1 focuses on prototyping techniques, namely writing User Narratives, making Wire Frames and User Stories.
-      - *User Narrative* -  User Narratives involves "getting in the user's head" to draft a set of "actions" the user will take upon landing on your app or web page. Where will their eye look first? Where will they click next? Writing out the narrative ensures your site is intutive to the users' needs. Once you have the narrative done, you can then move on to creating a draft of what your site will look like ... also known as a Wireframe. We'll make this wireframe in the next class.
+      - *User Journey* -  User Journeys involve "getting in the user's head" to draft a set of "actions" the user will take upon landing on your app or web page. Where will their eye look first? Where will they click next? Writing out the narrative ensures your site is intutive to the users' needs. Once you have the journey done, you can then move on to creating a draft of what your site will look like ... also known as a Wireframe. We'll make this wireframe in the next class.
    - **After Class** - 1) Finish your User Persona and User Narrative 2) add both the User Personal and User Narrative to your blog post draft; [Class Slides](https://docs.google.com/presentation/d/1UKVsUOCxQPNT3P42cvsTYxhNl7lpsDHjJew_a5K1JaM/edit?usp=drive_web&ouid=102349547791146369642)
 
 ## 9. Networking Events & Professionalism
