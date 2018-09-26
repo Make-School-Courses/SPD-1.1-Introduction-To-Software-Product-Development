@@ -99,7 +99,7 @@ To pass this course you must meet the following requirements:
       - *User Journey* -  User Journeys involve "getting in the user's head" to draft a set of "actions" the user will take upon landing on your app or web page. Where will their eye look first? Where will they click next? Writing out the narrative ensures your site is intutive to the users' needs. Once you have the journey done, you can then move on to creating a draft of what your site will look like ... also known as a Wireframe. We'll make this wireframe in the next class.
    - **After Class** - 1) Finish your User Persona and User Narrative 2) add both the User Personal and User Narrative to your blog post draft; [Class Slides](https://docs.google.com/presentation/d/1UKVsUOCxQPNT3P42cvsTYxhNl7lpsDHjJew_a5K1JaM/edit?usp=drive_web&ouid=102349547791146369642)
 
-## 9. Networking Events & Professionalism
+## 9. Networking Events & Professionalism ([Class Slides](https://docs.google.com/presentation/d/1HgatbVpG_d0QqUACg59i3qhMUSK0o5IckLR3UH_hOhs/edit#slide=id.p))
    - **In Class Activities** 
       - *Networking Simulation* - Networking events are incredible opportunities to get advice and feedback from professional engineers. In class, we'll simulate the dynamics of a professional networking event - entering and leaving conversations, exchanging business cards, explaining Make School, sparking conversation. In no time you'll have a solid strategy to make use of San Francisco's many meetups and events. Who knows, you may meet your future employer. Content of this exercise builds into the career prep curriculum.
       - *Product Landing Page* - Create a landing page for your product idea that you can use to ask people to sign up for your app and get feedback on it.
