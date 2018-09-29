@@ -38,9 +38,8 @@ Students by the end of the course will be able to ...
 
 ## Tutorials & Projects
 
-- **Due Oct 10th:** [SPD 1.1 Blog Post: Identifying and Solving Problems](https://docs.google.com/document/d/1qivWC5VE4bo7A0YYgJ6dgnW1dV61QGIeSXBwfc4kkF0/edit) -  link has the fully fledged assignment. Work on this assignment throughout the course instead of saving it for last minute. This blog post will serve as a valuable portfolio to demonstrate your skill to recruiters. This [Written Communication Rubric (AAC&U Value Rubric)](https://drive.google.com/file/d/1Q7kd-JTwd8COOGNeSD43UoAivwF5_dWZ/view?usp=sharing) will be used to evaluate your work.
-- Classroom activities mentioned below
-- **Due Oct 19th, started Oct 15th:** Shipped product - Term 1 ends with a one week "intensive" soley focused on designing, coding and shiping your own original product. We'll use this [portfolio project rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit?usp=drive_web&ouid=102349547791146369642) to evaluate your work.
+- **Due Oct 10th:** [SPD 1.1 Blog Post: Identifying and Solving Problems](https://docs.google.com/document/d/1qivWC5VE4bo7A0YYgJ6dgnW1dV61QGIeSXBwfc4kkF0/edit) -  link has the fully fledged assignment. Work on this assignment throughout the course instead of saving it for last minute. This blog post will serve as a valuable portfolio to demonstrate your skill to recruiters. This [Blog Post/Writing Rubric](https://docs.google.com/document/d/1T1oqHFoRo0kl7mPUTFupmsoEkLYltKsVgtqyGKDaCgY/edit) will be used to evaluate your work. We will have a peer editing session on Oct 3rd in class for you to give and get peer feedback on your writing. Click on [these instructions](*Change your Medium post to enable editing/suggestion by peers* instructions: https://help.medium.com/hc/en-us/articles/215564177-Share-draft) on how to allow people to make edit suggestions directly to your Medium post.
+- **Due Oct 19th, started Oct 15th:** Shipped product - Term 1 ends with a one week "intensive" soley focused on designing, coding and shiping your own original product. Scope the project small - all you need to do is make and ship an app that CRUDs one resource. Once you complete that, you can then extend the app to crud another resource. Remember not to overscope your first iteration. It should be a "scateboard" a version of your idea, so simple that it barely meets your need - check out these class slides on [scoping your project](https://docs.google.com/presentation/d/1UKVsUOCxQPNT3P42cvsTYxhNl7lpsDHjJew_a5K1JaM/edit#slide=id.p) for reference.  In the future, we'll use this [portfolio project rubric](https://docs.google.com/document/d/1nd70y0jzxD31mgxvwxgXxUY_Bi4YAN_kX9To_M0UilI/edit?usp=drive_web&ouid=102349547791146369642) to evaluate and level-up your shipped products.
 
 ## Evaluation
 
@@ -105,23 +104,23 @@ To pass this course you must meet the following requirements:
       - *Product Landing Page* - Create a landing page for your product idea that you can use to ask people to sign up for your app and get feedback on it.
    - **After Class** - sign up for one of the listed networking events
 
-## 10. Wireframes
+## 10. Wireframes ([Class Slides](https://docs.google.com/presentation/d/1ALBDn3bIycimyvnB6fEOAMadDOCA4wmoOO9Z-lpBRsM/edit#slide=id.p))
    - **In Class Activities**  
       - *Make a Wireframe* - a Wireframe is a skeletal blueprint of your app. Built off the User Narrative, Wireframes are often drawn on paper as a quick prototype of your app. "Wireframes depicts the page layout or arrangement of the website’s content, including navigational systems, interface elements, and how they work together. The wireframe usually lacks typographic style, color, or graphics, since the main focus lies in functionality, behavior, and priority of content. Wireframes can be pencil drawings or sketches on a whiteboard, or they can be produced by means of a broad array of free or commercial software applications". Wireframes are ment to be rough sketches that are iterated upon. 
-      - *Make an Entity Relationship Diagram* - Entity Relationship Diagrams (ERDs), take your individual wireframe panes and models how they connect to each other. ERDs takes all your wireframe pages (known as "entities") and maps out the different "actions" users can take to get from one entity to another. With the ERD, you'll have a clear vision for the app you will soon build in the week long "intensive" at the end of this term. 
-   - **After Class** - 1) Finish your Wireframe and ERD 2) add both the Wireframe and ERD to your blog post draft; [Class Slides](https://docs.google.com/presentation/d/1ALBDn3bIycimyvnB6fEOAMadDOCA4wmoOO9Z-lpBRsM/edit?usp=drive_web&ouid=102349547791146369642)
+   - **After Class** - 1) Finish your draft of your *Blog Post* and your Wireframe 2) add  the Wireframe to your blog post draft 3) user test your wireframes, and iterate!; [Class Slides](https://docs.google.com/presentation/d/1ALBDn3bIycimyvnB6fEOAMadDOCA4wmoOO9Z-lpBRsM/edit?usp=drive_web&ouid=102349547791146369642)
 
-## 11. Reflective Best Selt
+## 11. Blog Post Peer Editing
    - **In Class Activities** 
-      - *Reflective Best Self* activity - what are your superpowers as an up and coming professional engineer? This activity provides "feedback to participants about who they are when they are at their best. Participants request positive feedback from significant people in their lives, which they then synthesize into a cumulative portrait of their 'best self.' The exercise can be used as a tool for personal development because it provides valuable insights into the ways a person adds value and makes a contribution". 
-   - **After Class** - 1) finish the Reflective Best Self activity and 2) share your content with your coach 3) Pick a product idea to start building in our next class; 
+      - *Peer Editing* - We'll peer edit each other's blog posts using the [Blog Post and Writing Rubric](www.make.sc/blog-post-rubric).
+      - *SPD 1.1 Course Review for Assessment* - Instructors will give a rapid run-through of all class slides and content to help students prepare for the SPD 1.1 assessment occuring in class on Wed Oct 10th
+   - **After Class** - 1) finish your blog post final draft 2) share your blog post with your coach 3) study for the SPD 1.1 assessment occuring on Wed Oct 10th
 
 
 ## 12. Agile Methodology & Backlog of User Stories
    - **In Class Activities** 
       - *Paper Plane activity* - this activity simulates Agile Development: the iterative process by which software developers make products and prioritize features. The activity will help frame the work ahead.
-      - *Create a backlog of User Stories* - User Narratives are the set of actions a user will take once they land on your site. User Stories are one particular action within that narrative set. Before building their app, developers list out all the user stories in order to prioritize which should be built first. Once complete, you'll be ready to build this app or another app idea during the week long intensive.
-   - **After Class** - 1) Finish your backlog of User Stories 2) Finish your blog post and submit it here; [Class Slides](https://drive.google.com/file/d/1b72IU1gYddSjqyzdByiUJYKCd2HQYYQK/view?usp=sharing)
+      - *Create a backlog of User Stories* - User Journeys are the set of actions a user will take once they land on your site. User Stories are one particular action within that journey set. Before building their app, developers list out all the user stories in order to prioritize which should be built first. Once complete, you'll be ready to build this app or another app idea during the week long intensive.
+   - **After Class** - 1) Finish your backlog of User Stories 2) Finish your blog post and update it's status in the SPD Course Tracker; [Class Slides](https://drive.google.com/file/d/1b72IU1gYddSjqyzdByiUJYKCd2HQYYQK/view?usp=sharing)
 
 ## 13. Assessment: Test & submit 1,500 word blogpost
    - **In Class Activities**
