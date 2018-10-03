@@ -113,8 +113,8 @@ To pass this course you must meet the following requirements:
 ## 11. Blog Post Peer Editing
    - **In Class Activities** 
       - *Peer Editing* - We'll peer edit each other's blog posts using the [Blog Post and Writing Rubric](www.make.sc/blog-post-rubric).
-      - *SPD 1.1 Course Review for Assessment* - Instructors will give a rapid run-through of all class slides and content to help students prepare for the SPD 1.1 assessment occuring in class on Wed Oct 10th
-   - **After Class** - 1) finish your blog post final draft 2) share your blog post with your coach 3) study for the SPD 1.1 assessment occuring on Wed Oct 10th
+      - *SPD 1.1 Course Review for Assessment* - Instructors will give a rapid run-through of all class slides and content to help students prepare for the SPD 1.1 assessment occuring in class on Wed Oct 10th.
+   - **After Class** - 1) finish your blog post final draft 2) share your blog post with your coach 3) study for the SPD 1.1 assessment occuring on Wed Oct 10th.
 
 
 ## 12. Agile Methodology & Backlog of User Stories
