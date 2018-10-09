@@ -117,11 +117,11 @@ To pass this course you must meet the following requirements:
    - **After Class** - 1) finish your blog post final draft 2) share your blog post with your coach 3) study for the SPD 1.1 assessment occuring on Wed Oct 10th.
 
 
-## 12. Agile Methodology & Backlog of User Stories
+## 12. Agile Methodology & Backlog of User Stories ([Class Slides](https://drive.google.com/file/d/1b72IU1gYddSjqyzdByiUJYKCd2HQYYQK/view?usp=sharing))
    - **In Class Activities** 
       - *Paper Plane activity* - this activity simulates Agile Development: the iterative process by which software developers make products and prioritize features. The activity will help frame the work ahead.
       - *Create a backlog of User Stories* - User Journeys are the set of actions a user will take once they land on your site. User Stories are one particular action within that journey set. Before building their app, developers list out all the user stories in order to prioritize which should be built first. Once complete, you'll be ready to build this app or another app idea during the week long intensive.
-   - **After Class** - 1) Finish your backlog of User Stories 2) Finish your blog post and update it's status in the SPD Course Tracker; [Class Slides](https://drive.google.com/file/d/1b72IU1gYddSjqyzdByiUJYKCd2HQYYQK/view?usp=sharing)
+   - **After Class** - 1) Finish your blog post and update it's status in the SPD Course Tracker; [Class Slides](https://drive.google.com/file/d/1b72IU1gYddSjqyzdByiUJYKCd2HQYYQK/view?usp=sharing)
 
 ## 13. Assessment: Test & submit 1,500 word blogpost
    - **In Class Activities**
