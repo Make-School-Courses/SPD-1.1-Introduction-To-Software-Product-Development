@@ -131,8 +131,8 @@ Class Times: Monday and Wednesday sections between 10:00am–12:30pm (13 class s
 Just like any job, attendance at Make School is required and a key component of your success. Attendance is being onsite from 9:30 to 5:30 each day, attending all scheduled sessions: classes, huddles, etc. and working in the study labs when not in a scheduled session. Working onsite allows you to learn with your peers, have access to support from TAs, instructors and others, and is vital to your learning.
 
 Attendance requirements for scheduled sessions are:
-    - No more than two no call no shows per term in any scheduled session.  
-    - No more than four excused absences per term in any scheduled session.
+  - No more than two no call no shows per term in any scheduled session.  
+  - No more than four excused absences per term in any scheduled session.
 
 Failure to meet these requirements will result in a PIP (Participation Improvement Plan). Failure to improve after the PIP will result in not being invited back next term.
 
