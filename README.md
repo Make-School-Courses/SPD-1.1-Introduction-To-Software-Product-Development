@@ -26,15 +26,10 @@ None <br>
 Students by the end of the course will be able to ...
 
 1. Compare and contrast the benefits and drawbacks of Waterfall vs. Agile methodology, and follow iterative processes of user interviews, wireframes, and user journeys. (PLO 1 & 3) 
-    - Assessment: Summative Assessment
 1. Explain various strategies to evaluate a problem space and product opportunities including PEST Analysis, Competitive Analysis, and User Interviews (PLO 5)
-    -  Assessment: Summative Assessment
 1. Create a prototypes of a product using User Personas, User Journeys, Wireframes Entity Relationship Diagrams and resource based scoping (PLO 3)
-    - Assessment: Summative Assessment
 1. Demonstrate a diverse and individualized set of professional skills necessary to succeed while at Make School and beyond. (PLO 1) 
-    - Assessment: Summative Assessment
 1. Consistently practice professional business communication that is actionable with an appreciative tone. (PLO 4, PLO 6)
-    - Assessment: Final Blog Post; Rubric: [Written Communication Rubric (AAC&U Value Rubric)](https://drive.google.com/file/d/1Q7kd-JTwd8COOGNeSD43UoAivwF5_dWZ/view?usp=sharing)
 
 ## Tutorials & Projects
 
@@ -46,14 +41,16 @@ Students by the end of the course will be able to ...
 ## Evaluation
 
 To pass this course you must meet the following requirements:
-
-- No more than two no call no shows
-- No more than four excused absences
+- Pass all required tutorials and projects (see associated rubrics)
+- Pass the final summative assessment >=75%
+- Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
-- Finish all required tutorials and projects
-- Pass the final exam (summative assessment) >=80%
 
-## Lessons
+## Schedule
+
+Course Dates: Monday, August 27 – Wednesday, October 10, 2018 (7 weeks)
+
+Class Times: Monday and Wednesday sections between 10:00am–12:30pm (13 class sessions)
 
 13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
 
@@ -129,6 +126,15 @@ To pass this course you must meet the following requirements:
      - *Summative Assessment* - you'll take an assessment that cover the content from SPD 1.1. I recommend you review class slides and understand the major ideas taught in each activity. Don't sweat it too much. Those who miss this in-class assessment have the option to retake it the the Wednesday during the weeklong intensity.
      - *Peer review and publish blog posts* - class will close with us peer editing each other's blog posts and hitting PUBLISH! We'll then celebrate with popcorn or whatever treat Dan brings in ;)
    - **After Class** - Relax. Pat yourself on the back for your hard work! Get ready to build and ship your product idea (or a new product idea) during next week's product intensive.
+
+## Attendance
+Just like any job, attendance at Make School is required and a key component of your success. Attendance is being onsite from 9:30 to 5:30 each day, attending all scheduled sessions: classes, huddles, etc. and working in the study labs when not in a scheduled session. Working onsite allows you to learn with your peers, have access to support from TAs, instructors and others, and is vital to your learning.
+
+Attendance requirements for scheduled sessions are:
+    - No more than two no call no shows per term in any scheduled session.  
+    - No more than four excused absences per term in any scheduled session.
+
+Failure to meet these requirements will result in a PIP (Participation Improvement Plan). Failure to improve after the PIP will result in not being invited back next term.
 
 ## Huddle Schedule - daily morning group meeting
 * Week 1: Group Formation - Get to know your fellow classmates and establish a foundation of community
