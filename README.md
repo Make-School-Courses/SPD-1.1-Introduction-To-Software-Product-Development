@@ -34,7 +34,7 @@ Students by the end of the course will be able to ...
 ## Tutorials & Projects
 
 - **Blog Post - Due Oct 10th:** [SPD 1.1 Blog Post: Identifying and Solving Problems](https://docs.google.com/document/d/1qivWC5VE4bo7A0YYgJ6dgnW1dV61QGIeSXBwfc4kkF0/edit) -  link has the fully fledged assignment. Work on this assignment throughout the course instead of saving it for last minute. This blog post will serve as a valuable portfolio to demonstrate your skill to recruiters. This [Blog Post/Writing Rubric](https://docs.google.com/document/d/1T1oqHFoRo0kl7mPUTFupmsoEkLYltKsVgtqyGKDaCgY/edit) will be used to evaluate your work. We will have a peer editing session on Oct 3rd in class for you to give and get peer feedback on your writing. Click on [these instructions](https://help.medium.com/hc/en-us/articles/215564177-Share-draft) on how to allow people to make edit suggestions directly to your Medium post.
-- **Intensive Product and Pitch - Due Oct 19th, started Oct 15th:** Term 1 ends with a one week "intensive" soley focused on designing, coding and shiping your own original product.
+- **Intensive Product and Pitch - Due Oct 19th, started Oct 15th:** Term 1 ends with a one week "intensive" solely focused on designing, coding and shipping your own original product.
     - View [details](https://docs.google.com/document/d/1lRHbwCdrmxpVEEu_UwbUcRLtC-hvqc3IeZ3OTlAzNgo/edit#) about the intensive and tips for scoping your project
     - Grading: must core an average of a 3 or above on the [RUBRICs](https://docs.google.com/document/d/1pdtRdgVISE07fFc8oBi5hCnLkwBQDFG5_3f79aDV1WU/edit#) for the intensive project and product pitch
 
@@ -63,21 +63,19 @@ If you teach **M/W** or **Tu/Th**, please pick from a template below and delete 
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  -  | Monday, January 21             | **MLK Jr. Day** |
-|  1 | Wednesday, January 23    | [Lesson 1] |
-|  2 | Monday, January 28             | [Lesson 2] |
-|  3 |  Wednesday, January 30             | [Lesson 3] |
-|  4 | Monday, February 4             | [Lesson 4] |
-|  5 |  Wednesday, February 6             | [Lesson 5] |
-|  6 | Monday, February 11             | [Lesson 6] |
-|  7 |  Wednesday, February 13            | [Lesson 7] |
-|  -  | Monday, February 18             | **President's Day (Observed)** |
-|  8  | **Tuesday, February 19**             | [Lesson 8] |
-|  9 |  Wednesday, February 20            | [Lesson 9] |
-|  10 | Monday, February 25             | [Lesson 10] |
-|  11 |  Wednesday, February 27            | [Lesson 11] |
-|  12 | Monday, March 4             | Final Class (presentations, etc) |
-|  13 |  Wednesday, March 6            | Final Exams/Presentations |
+|  1 | Wednesday    | [Lesson 1] |
+|  2 | Monday             | [Lesson 2] |
+|  3 |  Wednesday             | [Lesson 3] |
+|  4 | Monday            | [Lesson 4] |
+|  5 |  Wednesday             | [Lesson 5] |
+|  6 | Monday            | [Lesson 6] |
+|  7 |  Wednesday            | [Lesson 7] |
+|  8  | Monday            | [Lesson 8] |
+|  9 |  Wednesday            | [Lesson 9] |
+|  10 | Monday             | [Lesson 10] |
+|  11 |  Wednesday           | [Lesson 11] |
+|  12 | Monday            | [Lesson 12] |
+|  13 |  Wednesday           | [Assessment] |
 
 
 Class Times: Monday and Wednesday sections between 10:00am–12:30pm (13 class sessions)
@@ -85,31 +83,9 @@ Class Times: Monday and Wednesday sections between 10:00am–12:30pm (13 class s
 13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
 
 
-## 2. Industry Analysis (PEST) & Ideation ([Class Slides](https://docs.google.com/presentation/d/1drxwQx2mapeZ3gYeQba-lT3X1mrFJUQ5UuhQRseXaLg/edit?usp=drive_web&ouid=102349547791146369642))
-  - **In Class Activities** -
-    - *Conduct a PEST analysis* - A PEST analysis is used understand the political, economic, social, and technological forces influencing a problem space. PEST analysis enables product developers to identify when the timing is ripe or stale for different ideas. It thus acts as a useful tool in our journey to understand our problem space and where there is opportunity for us to make an impact.
-    - *Conduct a Competitive Analysis* - A Competitive Analsysis examines the technologies that are currently trying to address the problem space. Understanding these competitors helps you identify people and organizations who are underserved. While PEST Analysis answers "How is the problem space changing?" Competitive Analysis Answers "What solutions to the problem already exhist?" For those products - what are the reviews on the appstore and what feature requests do they mention?
-   - **After Class** - 1) Finish your PEST Analysis and Competitive Analysis, video on [PEST](https://www.youtube.com/watch?v=mCdcdf-b8AU&feature=youtu.be) 2) add your PEST and Comeptitive Analysis findings to your draft blog post, 3) Read the following in preparation for next class [Customer Discovery Video (3 min)](https://steveblank.com/2014/06/28/customer-discovery-the-search-for-productmarket-fit-2-minutes-to-see-why/) and [Art of the User Interview](https://medium.springboard.com/the-art-of-the-user-interview-cf40d1ca62e8) for next class; [Class Slides](https://docs.google.com/presentation/d/1drxwQx2mapeZ3gYeQba-lT3X1mrFJUQ5UuhQRseXaLg/edit?usp=drive_web&ouid=102349547791146369642)
 
-## 3. User Interviews ([Class Slides](https://docs.google.com/presentation/d/1xtUGbErF315eKkvVAstTnWzoXLmpygtf6YGTEMYwg_A/edit#slide=id.g4131218d87_0_117))
-   - **In Class Activities**
-     - *Design a User Interview Script* - Students are required to create a "User Interview Script" that they will eventually use to conducting actual user interviews. While the PEST Analysis and Competitive Analysis give us a macro view of a problem space, User Interviews help us see the problem from a new perspective - through the eyes people experiencing it. Together, both forms of analysis enable us to understand the nuance of the problem. You can find User interview best practices in these [class slides](https://docs.google.com/presentation/d/1xtUGbErF315eKkvVAstTnWzoXLmpygtf6YGTEMYwg_A/edit#slide=id.g3435adb14f_0_1), this [Sample User Interview](https://docs.google.com/document/d/1uRRKejC3Ullk5vdw9P1SHmE56CGkekH2dIaoBV9ISeM/edit), and this article to ensure you have [unbiased questions](https://surveytown.com/10-examples-of-biased-survey-questions/). Assignment will be given in class.
-   - **After Class** - 1) finish your user interview script, 2) try and schedule interviews with people or organizations affected by your problem area. We'll do a more formal reach out at the end of next class 3) read this [email charter (5 min)](http://www.emailcharter.org/); [Class Slides](https://docs.google.com/presentation/d/1xtUGbErF315eKkvVAstTnWzoXLmpygtf6YGTEMYwg_A/edit#slide=id.p)
 
-## 4. Email Fundamentals ([Class Slides](https://docs.google.com/presentation/d/18TCD_bh5rBBMyT2NvWj0roGJodb8UzHyj2yaPbnkNNM/edit#slide=id.p))
-   - **In Class Activities**
-     - *Professional Email Challenge* - Masterful product developers are experts at communicating with people inside and outside their organization. Students are required to complete a simulation in which they will reply ~10 email prompts using professional business communication standards outlined in [these slides](https://docs.google.com/presentation/d/18TCD_bh5rBBMyT2NvWj0roGJodb8UzHyj2yaPbnkNNM/edit#slide=id.p). These prompts mimic emails you will receive and send throughout their career and in future classes of this term. Student emails will be evaluated based on their how actionable, concise and appreciative they. Assignment will be given in class.
-   - **After Class** - 1) get feedback from a peer on your email drafts 2) email a few people to conduct a user interview with them 3) you can schedule user interviews to occur from Wed 9/12 from 10:30-11:30am [Class Slides](https://docs.google.com/presentation/d/18TCD_bh5rBBMyT2NvWj0roGJodb8UzHyj2yaPbnkNNM/edit?usp=drive_web&ouid=102349547791146369642)
 
-## 5. Rejection Therapy - User Interview Lab ([Class Slides](https://drive.google.com/file/d/1DlBg4p7lRJqCAmBEAYiNehleVmr0Ifq7/view?usp=sharing))
-  - **In Class Activities**
-     - *User Interview Challenge (Rejection Therapy)* - Each student will "get out of the building" to conduct actual user interviews. Interviewees may include someone you randomly approach on streets, someone from an organization related to your problem area whom you "cold call".  These interviews will further develop your understanding of your problem space. Building something that matters requires resillience. Many will say "no" to your interview request. Stay resillient! As you conduct interviews, Remember that your thinking about the problem will adapt as you gain more data. Remember to rely on more than one person's perspective.  Some students may conduct interviews prior to class.
-   - **After Class** - 1) add notes about your experinece and learnings conducting user interviews to your draft blog post 2) Finish your Make School portfolio at make.sc/portfolio, including all projects, bio, social media (up to date LinkedIn), professional headshot, articles you've written
-
-## 6. Engaging MS Partners & Industry Mentors & Professionals ([Class Slides](https://docs.google.com/presentation/d/1g4FuBBQIBLJ30eGXD9YsDjK2PaNUnrg6a60ip0WBc6A/edit#slide=id.g2ac68605ca_3_12))
-   - **In Class Activities**
-     - *ICon (Industry Contact) Challenge* - Students must connect and meet with a professional engineer to learn about their work, product development process, and to get feedback on their code. They can do so through Make School’s [list of volunteer mentors](https://docs.google.com/spreadsheets/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit#gid=0). In class we'll discuss professional communication strategy and each draft our own reach-out email. This content builds off of the Professional Risk Challenge and Email Simulation, and will build into the Cold Emails content in later terms. Students must successfully connect with someone in industry - the final exam will ask you about your contact and what you learned.
-   - **After Class** - 1) email your industry contact and set up a call. If they don't respond after three days reping. If they don't respond after three reach out attempts, select another mentor and repeat! 2) if you missed class, please be sure to select an industry contact from our [list](https://docs.google.com/spreadsheets/d/1PUffTZwaYVe3EWcCqF_2czeDV0KsEEjJzt-SIyziZVY/edit#gid=0), write a draft message - how to tips in the class slides - and send to caroline for approval ... she'll then give you the email address 3) after your call, add notes on what you've learnred to your draft blog post; [Class Slides](https://docs.google.com/presentation/d/1g4FuBBQIBLJ30eGXD9YsDjK2PaNUnrg6a60ip0WBc6A/edit#slide=id.p)
 
 ## 7. Procrastination & Work Life Balance ([Class Slides](https://docs.google.com/presentation/d/13Tfrk_6at1Vj1N0fmwPbqs-FftU7QaLYcW3eVPJXYb8/edit))
    - **In Class Activities**   
@@ -191,17 +167,18 @@ This is a general set of guidelines that will ebb and flow depending on the prog
 - What do you want to continue doing next term and what do you want to change?
 
 [Lesson 1]: Lessons/01-Intro-To-Software-Product-Design.md
-[Lesson 2]: Lessons/Lesson2.md
-[Lesson 3]: Lessons/Lesson3.md
-[Lesson 4]: Lessons/Lesson4.md
-[Lesson 5]: Lessons/Lesson5.md
-[Lesson 6]: Lessons/Lesson6.md
-[Lesson 7]: Lessons/Lesson7.md
-[Lesson 8]: Lessons/Lesson8.md
-[Lesson 9]: Lessons/Lesson9.md
-[Lesson 10]: Lessons/Lesson10.md
-[Lesson 11]: Lessons/Lesson11.md
-[Lesson 12]: Lessons/Lesson12.md
+[Lesson 2]: Lessons/02-Industry-Analysis-(PEST)-And-Ideation.md
+[Lesson 3]: Lessons/03-User-Interviews.md
+[Lesson 4]: Lessons/04-Email-Fundamentals.md
+[Lesson 5]: Lessons/05-Rejection-Therapy-User-Interveiw-Lab.md
+[Lesson 6]: Lessons/06-Engaging-Industry-Mentors.md
+[Lesson 7]: Lessons/07-Procrastination-And-Work-Life-Balance.md
+[Lesson 8]: Lessons/08-Product-Idea-Scope-And-Design.md
+[Lesson 9]: Lessons/09-Networking-Events-And-Professionalism.md
+[Lesson 10]: Lessons/10-Wireframes.md
+[Lesson 11]: Lessons/11-Blog-Post-Peer-Editing.md
+[Lesson 12]: Lessons/12-Agile-Methodology-And-Backlog-User-Stories.md
+[Assessment]: Lessons/13-Assessment-And-Blogpost.md
 
 
 ## Attendance
