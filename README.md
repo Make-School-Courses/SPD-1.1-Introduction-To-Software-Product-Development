@@ -15,7 +15,7 @@ Total Out-of-Class Hours: 75 hours <br>
 Total Hours: 112.5 hours <br>
 Units:  3 units <br>
 Delivery Method:  Residential <br>
-Class Sessions:  14 classes, 7 labs 
+Class Sessions:  14 classes, 7 labs
 
 ## Prerequisites:  
 
@@ -25,16 +25,16 @@ None <br>
 
 Students by the end of the course will be able to ...
 
-1. Compare and contrast the benefits and drawbacks of Waterfall vs. Agile methodology, and follow iterative processes of user interviews, wireframes, and user journeys. (PLO 1 & 3) 
+1. Compare and contrast the benefits and drawbacks of Waterfall vs. Agile methodology, and follow iterative processes of user interviews, wireframes, and user journeys. (PLO 1 & 3)
 1. Explain various strategies to evaluate a problem space and product opportunities including PEST Analysis, Competitive Analysis, and User Interviews (PLO 5)
 1. Create a prototypes of a product using User Personas, User Journeys, Wireframes Entity Relationship Diagrams and resource based scoping (PLO 3)
-1. Demonstrate a diverse and individualized set of professional skills necessary to succeed while at Make School and beyond. (PLO 1) 
+1. Demonstrate a diverse and individualized set of professional skills necessary to succeed while at Make School and beyond. (PLO 1)
 1. Consistently practice professional business communication that is actionable with an appreciative tone. (PLO 4, PLO 6)
 
 ## Tutorials & Projects
 
 - **Blog Post - Due Oct 10th:** [SPD 1.1 Blog Post: Identifying and Solving Problems](https://docs.google.com/document/d/1qivWC5VE4bo7A0YYgJ6dgnW1dV61QGIeSXBwfc4kkF0/edit) -  link has the fully fledged assignment. Work on this assignment throughout the course instead of saving it for last minute. This blog post will serve as a valuable portfolio to demonstrate your skill to recruiters. This [Blog Post/Writing Rubric](https://docs.google.com/document/d/1T1oqHFoRo0kl7mPUTFupmsoEkLYltKsVgtqyGKDaCgY/edit) will be used to evaluate your work. We will have a peer editing session on Oct 3rd in class for you to give and get peer feedback on your writing. Click on [these instructions](https://help.medium.com/hc/en-us/articles/215564177-Share-draft) on how to allow people to make edit suggestions directly to your Medium post.
-- **Intensive Product and Pitch - Due Oct 19th, started Oct 15th:** Term 1 ends with a one week "intensive" soley focused on designing, coding and shiping your own original product. 
+- **Intensive Product and Pitch - Due Oct 19th, started Oct 15th:** Term 1 ends with a one week "intensive" soley focused on designing, coding and shiping your own original product.
     - View [details](https://docs.google.com/document/d/1lRHbwCdrmxpVEEu_UwbUcRLtC-hvqc3IeZ3OTlAzNgo/edit#) about the intensive and tips for scoping your project
     - Grading: must core an average of a 3 or above on the [RUBRICs](https://docs.google.com/document/d/1pdtRdgVISE07fFc8oBi5hCnLkwBQDFG5_3f79aDV1WU/edit#) for the intensive project and product pitch
 
@@ -50,34 +50,59 @@ To pass this course you must meet the following requirements:
 
 Course Dates: Monday, August 27 – Wednesday, October 10, 2018 (7 weeks)
 
+## Schedule
+---
+### _INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE SUBMITTING_
+If you teach **M/W** or **Tu/Th**, please pick from a template below and delete the other one
+
+---
+### M/W Template
+**Course Dates:** Monday, January 21 – Wednesday, March 6, 2019 (7 weeks)
+
+**Class Times:** Monday and Wednesday at 3:30–5:20pm (10 class sessions)
+
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|  -  | Monday, January 21             | **MLK Jr. Day** |
+|  1 | Wednesday, January 23    | [Lesson 1] |
+|  2 | Monday, January 28             | [Lesson 2] |
+|  3 |  Wednesday, January 30             | [Lesson 3] |
+|  4 | Monday, February 4             | [Lesson 4] |
+|  5 |  Wednesday, February 6             | [Lesson 5] |
+|  6 | Monday, February 11             | [Lesson 6] |
+|  7 |  Wednesday, February 13            | [Lesson 7] |
+|  -  | Monday, February 18             | **President's Day (Observed)** |
+|  8  | **Tuesday, February 19**             | [Lesson 8] |
+|  9 |  Wednesday, February 20            | [Lesson 9] |
+|  10 | Monday, February 25             | [Lesson 10] |
+|  11 |  Wednesday, February 27            | [Lesson 11] |
+|  12 | Monday, March 4             | Final Class (presentations, etc) |
+|  13 |  Wednesday, March 6            | Final Exams/Presentations |
+
+
 Class Times: Monday and Wednesday sections between 10:00am–12:30pm (13 class sessions)
 
 13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
 
-## 1. Introduction to Software Product Development & Problem Ideation ([Class Slides](https://docs.google.com/presentation/d/1T2SdWncAHL3hHniAdbYXEzoP-HGHmR5ffHj5TooBY-g/edit?usp=drive_web&ouid=102349547791146369642))
-   - **Before Class** - think of problems in the world that could be solved with technology
-   - **In Class Activities** - 
-        - *"Problem Area" Brainstorm* - Our goal as developers is to change the world with technology. That starts with understanding the problems that affect different markets and industries. In class, we'll explore problems that are important to us and start honing in on a problem area we'd like to further research throughout the course. You'll record your reflections from this activity in your blog post.
-    - **After Class** - 1) make sure your draft blog post is linked here in the [course tracker](https://make.sc/spd-1-1-tracker), 2) continue thinking about problems you'd like to solve with technology, 3) pick your domain here, 4) read the entire syllabus for this class; [Class Slides](https://docs.google.com/presentation/d/1T2SdWncAHL3hHniAdbYXEzoP-HGHmR5ffHj5TooBY-g/edit?usp=drive_web&ouid=102349547791146369642)
 
 ## 2. Industry Analysis (PEST) & Ideation ([Class Slides](https://docs.google.com/presentation/d/1drxwQx2mapeZ3gYeQba-lT3X1mrFJUQ5UuhQRseXaLg/edit?usp=drive_web&ouid=102349547791146369642))
-  - **In Class Activities** - 
+  - **In Class Activities** -
     - *Conduct a PEST analysis* - A PEST analysis is used understand the political, economic, social, and technological forces influencing a problem space. PEST analysis enables product developers to identify when the timing is ripe or stale for different ideas. It thus acts as a useful tool in our journey to understand our problem space and where there is opportunity for us to make an impact.
     - *Conduct a Competitive Analysis* - A Competitive Analsysis examines the technologies that are currently trying to address the problem space. Understanding these competitors helps you identify people and organizations who are underserved. While PEST Analysis answers "How is the problem space changing?" Competitive Analysis Answers "What solutions to the problem already exhist?" For those products - what are the reviews on the appstore and what feature requests do they mention?
    - **After Class** - 1) Finish your PEST Analysis and Competitive Analysis, video on [PEST](https://www.youtube.com/watch?v=mCdcdf-b8AU&feature=youtu.be) 2) add your PEST and Comeptitive Analysis findings to your draft blog post, 3) Read the following in preparation for next class [Customer Discovery Video (3 min)](https://steveblank.com/2014/06/28/customer-discovery-the-search-for-productmarket-fit-2-minutes-to-see-why/) and [Art of the User Interview](https://medium.springboard.com/the-art-of-the-user-interview-cf40d1ca62e8) for next class; [Class Slides](https://docs.google.com/presentation/d/1drxwQx2mapeZ3gYeQba-lT3X1mrFJUQ5UuhQRseXaLg/edit?usp=drive_web&ouid=102349547791146369642)
 
 ## 3. User Interviews ([Class Slides](https://docs.google.com/presentation/d/1xtUGbErF315eKkvVAstTnWzoXLmpygtf6YGTEMYwg_A/edit#slide=id.g4131218d87_0_117))
-   - **In Class Activities** 
+   - **In Class Activities**
      - *Design a User Interview Script* - Students are required to create a "User Interview Script" that they will eventually use to conducting actual user interviews. While the PEST Analysis and Competitive Analysis give us a macro view of a problem space, User Interviews help us see the problem from a new perspective - through the eyes people experiencing it. Together, both forms of analysis enable us to understand the nuance of the problem. You can find User interview best practices in these [class slides](https://docs.google.com/presentation/d/1xtUGbErF315eKkvVAstTnWzoXLmpygtf6YGTEMYwg_A/edit#slide=id.g3435adb14f_0_1), this [Sample User Interview](https://docs.google.com/document/d/1uRRKejC3Ullk5vdw9P1SHmE56CGkekH2dIaoBV9ISeM/edit), and this article to ensure you have [unbiased questions](https://surveytown.com/10-examples-of-biased-survey-questions/). Assignment will be given in class.
    - **After Class** - 1) finish your user interview script, 2) try and schedule interviews with people or organizations affected by your problem area. We'll do a more formal reach out at the end of next class 3) read this [email charter (5 min)](http://www.emailcharter.org/); [Class Slides](https://docs.google.com/presentation/d/1xtUGbErF315eKkvVAstTnWzoXLmpygtf6YGTEMYwg_A/edit#slide=id.p)
 
 ## 4. Email Fundamentals ([Class Slides](https://docs.google.com/presentation/d/18TCD_bh5rBBMyT2NvWj0roGJodb8UzHyj2yaPbnkNNM/edit#slide=id.p))
-   - **In Class Activities** 
+   - **In Class Activities**
      - *Professional Email Challenge* - Masterful product developers are experts at communicating with people inside and outside their organization. Students are required to complete a simulation in which they will reply ~10 email prompts using professional business communication standards outlined in [these slides](https://docs.google.com/presentation/d/18TCD_bh5rBBMyT2NvWj0roGJodb8UzHyj2yaPbnkNNM/edit#slide=id.p). These prompts mimic emails you will receive and send throughout their career and in future classes of this term. Student emails will be evaluated based on their how actionable, concise and appreciative they. Assignment will be given in class.
    - **After Class** - 1) get feedback from a peer on your email drafts 2) email a few people to conduct a user interview with them 3) you can schedule user interviews to occur from Wed 9/12 from 10:30-11:30am [Class Slides](https://docs.google.com/presentation/d/18TCD_bh5rBBMyT2NvWj0roGJodb8UzHyj2yaPbnkNNM/edit?usp=drive_web&ouid=102349547791146369642)
 
 ## 5. Rejection Therapy - User Interview Lab ([Class Slides](https://drive.google.com/file/d/1DlBg4p7lRJqCAmBEAYiNehleVmr0Ifq7/view?usp=sharing))
-  - **In Class Activities** 
+  - **In Class Activities**
      - *User Interview Challenge (Rejection Therapy)* - Each student will "get out of the building" to conduct actual user interviews. Interviewees may include someone you randomly approach on streets, someone from an organization related to your problem area whom you "cold call".  These interviews will further develop your understanding of your problem space. Building something that matters requires resillience. Many will say "no" to your interview request. Stay resillient! As you conduct interviews, Remember that your thinking about the problem will adapt as you gain more data. Remember to rely on more than one person's perspective.  Some students may conduct interviews prior to class.
    - **After Class** - 1) add notes about your experinece and learnings conducting user interviews to your draft blog post 2) Finish your Make School portfolio at make.sc/portfolio, including all projects, bio, social media (up to date LinkedIn), professional headshot, articles you've written
 
@@ -98,25 +123,25 @@ Class Times: Monday and Wednesday sections between 10:00am–12:30pm (13 class s
    - **After Class** - 1) Finish your User Persona and User Narrative 2) add both the User Personal and User Narrative to your blog post draft; [Class Slides](https://docs.google.com/presentation/d/1UKVsUOCxQPNT3P42cvsTYxhNl7lpsDHjJew_a5K1JaM/edit?usp=drive_web&ouid=102349547791146369642)
 
 ## 9. Networking Events & Professionalism ([Class Slides](https://docs.google.com/presentation/d/1HgatbVpG_d0QqUACg59i3qhMUSK0o5IckLR3UH_hOhs/edit#slide=id.p))
-   - **In Class Activities** 
+   - **In Class Activities**
       - *Networking Simulation* - Networking events are incredible opportunities to get advice and feedback from professional engineers. In class, we'll simulate the dynamics of a professional networking event - entering and leaving conversations, exchanging business cards, explaining Make School, sparking conversation. In no time you'll have a solid strategy to make use of San Francisco's many meetups and events. Who knows, you may meet your future employer. Content of this exercise builds into the career prep curriculum.
       - *Product Landing Page* - Create a landing page for your product idea that you can use to ask people to sign up for your app and get feedback on it.
    - **After Class** - sign up for one of the listed networking events
 
 ## 10. Wireframes ([Class Slides](https://docs.google.com/presentation/d/1ALBDn3bIycimyvnB6fEOAMadDOCA4wmoOO9Z-lpBRsM/edit#slide=id.p))
    - **In Class Activities**  
-      - *Make a Wireframe* - a Wireframe is a skeletal blueprint of your app. Built off the User Narrative, Wireframes are often drawn on paper as a quick prototype of your app. "Wireframes depicts the page layout or arrangement of the website’s content, including navigational systems, interface elements, and how they work together. The wireframe usually lacks typographic style, color, or graphics, since the main focus lies in functionality, behavior, and priority of content. Wireframes can be pencil drawings or sketches on a whiteboard, or they can be produced by means of a broad array of free or commercial software applications". Wireframes are ment to be rough sketches that are iterated upon. 
+      - *Make a Wireframe* - a Wireframe is a skeletal blueprint of your app. Built off the User Narrative, Wireframes are often drawn on paper as a quick prototype of your app. "Wireframes depicts the page layout or arrangement of the website’s content, including navigational systems, interface elements, and how they work together. The wireframe usually lacks typographic style, color, or graphics, since the main focus lies in functionality, behavior, and priority of content. Wireframes can be pencil drawings or sketches on a whiteboard, or they can be produced by means of a broad array of free or commercial software applications". Wireframes are ment to be rough sketches that are iterated upon.
    - **After Class** - 1) Finish your draft of your *Blog Post* and your Wireframe 2) add  the Wireframe to your blog post draft 3) user test your wireframes, and iterate!; [Class Slides](https://docs.google.com/presentation/d/1ALBDn3bIycimyvnB6fEOAMadDOCA4wmoOO9Z-lpBRsM/edit?usp=drive_web&ouid=102349547791146369642)
 
 ## 11. Blog Post Peer Editing
-   - **In Class Activities** 
+   - **In Class Activities**
       - *Peer Editing* - We'll peer edit each other's blog posts using the [Blog Post and Writing Rubric](www.make.sc/blog-post-rubric).
       - *SPD 1.1 Course Review for Assessment* - Instructors will give a rapid run-through of all class slides and content to help students prepare for the SPD 1.1 assessment occuring in class on Wed Oct 10th.
    - **After Class** - 1) finish your blog post final draft 2) share your blog post with your coach 3) study for the SPD 1.1 assessment occuring on Wed Oct 10th.
 
 
 ## 12. Agile Methodology & Backlog of User Stories ([Class Slides](https://drive.google.com/file/d/1b72IU1gYddSjqyzdByiUJYKCd2HQYYQK/view?usp=sharing))
-   - **In Class Activities** 
+   - **In Class Activities**
       - *Paper Plane activity* - this activity simulates Agile Development: the iterative process by which software developers make products and prioritize features. The activity will help frame the work ahead.
       - *Create a backlog of User Stories* - User Journeys are the set of actions a user will take once they land on your site. User Stories are one particular action within that journey set. Before building their app, developers list out all the user stories in order to prioritize which should be built first. Once complete, you'll be ready to build this app or another app idea during the week long intensive.
    - **After Class** - 1) Finish your blog post and update it's status in the SPD Course Tracker; [Class Slides](https://drive.google.com/file/d/1b72IU1gYddSjqyzdByiUJYKCd2HQYYQK/view?usp=sharing)
@@ -138,11 +163,11 @@ Failure to meet these requirements will result in a PIP (Participation Improveme
 
 ## Huddle Schedule - daily morning group meeting
 * Week 1: Group Formation - Get to know your fellow classmates and establish a foundation of community
-    * Instructor facilitated discussion of principles of professional development and application of those principles to this cohort 
+    * Instructor facilitated discussion of principles of professional development and application of those principles to this cohort
 * Week 2: Goal & Priority Setting - Discuss personal goals and priorities for term 1 and the entirety of Make School
     * Instructor facilitated discussion of principles of habit formation as it relates to setting personal goals and priorities
 * Week 3: Appreciating Differences - Appreciating and understanding perspectives different than your own
-    * Instructor facilitated discussion of principles of business communication as it relates to this cohort and in a professional work setting 
+    * Instructor facilitated discussion of principles of business communication as it relates to this cohort and in a professional work setting
 * Week 4: Calendar & Productivity - Optimizing your calendar, work flows and habits to be productive
     * Instructor facilitated discussion of principles of peak performance and how to organize one’s own work system to optimize performance
 * Week 5: Imposter Syndrome - Overcoming imposter syndrome and professional challenges
@@ -154,7 +179,7 @@ Failure to meet these requirements will result in a PIP (Participation Improveme
 
 ## Coaching Schedule - one-to-one meeting between instructor and student, once per weeks
 This is a general set of guidelines that will ebb and flow depending on the progress of the students.
-- Review professional development activities and skills: 
+- Review professional development activities and skills:
     - Review calendaring and how you structure your days and time
     - Audit your productivity system (time blocking, prevent distractions, single source of truth, prioritization, resourcefulness)
     - Audit your professional and personal habits that support your success
@@ -162,16 +187,40 @@ This is a general set of guidelines that will ebb and flow depending on the prog
 - Do a code review
 - Review theories, principles, and topics related to SPD course material
 - In the context of professional development, discuss interests, motivations, and goals
-- Review of internship readiness 
+- Review of internship readiness
 - What do you want to continue doing next term and what do you want to change?
+
+[Lesson 1]: Lessons/01-Intro-To-Software-Product-Design.md
+[Lesson 2]: Lessons/Lesson2.md
+[Lesson 3]: Lessons/Lesson3.md
+[Lesson 4]: Lessons/Lesson4.md
+[Lesson 5]: Lessons/Lesson5.md
+[Lesson 6]: Lessons/Lesson6.md
+[Lesson 7]: Lessons/Lesson7.md
+[Lesson 8]: Lessons/Lesson8.md
+[Lesson 9]: Lessons/Lesson9.md
+[Lesson 10]: Lessons/Lesson10.md
+[Lesson 11]: Lessons/Lesson11.md
+[Lesson 12]: Lessons/Lesson12.md
+
+
+## Attendance
+Just like any job, attendance at Make School is required and a key component of your success. Attendance is being onsite from 9:30 to 5:30 each day, attending all scheduled sessions including classes, huddles, coaching and school meetings, and working in the study labs when not in a scheduled session. Working onsite allows you to learn with your peers, have access to support from TAs, instructors and others, and is vital to your learning.
+
+Attendance requirements for scheduled sessions are:
+- No more than two no call no shows per term in any scheduled session.
+- No more than four excused absences per term in any scheduled session.
+
+Failure to meet these requirements will result in a PIP (Participation Improvement Plan).  Failure to improve after the PIP is cause for not being allowed to continue at Make School.
 
 
 ## Make School Course Policies
 
-[Academic Honesty](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Academic-Honesty-and-Plagiarism.md)<br>
-[Accomodation Policy](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Accommodation-Policy.md)<br>
-[Diversity Statement](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Diversity-Statement.md)<br>
-[Evaluation Methods](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluation-Methods.md)
+[Academic Honesty](https://make.sc/academic-honesty)<br>
+[Accommodations for Students](https://make.sc/accommodations-for-students)<br>
+[Attendance Policy](https://make.sc/attendance-policy)  
+[Diversity and Inclusion Policy](https://make.sc/diversity-and-inclusion-policy)<br>
+[Grading System](https://make.sc/grading-system)
 <br>
-[Title IX Disclaimer](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluations-Title-X-Disclaimer.md)<br>
-[Program Learning Outcomes](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Program-Learning-Outcomes.md)
+[Title IX Policy](https://make.sc/title-ix-policy)<br>
+[Program Learning Outcomes](https://make.sc/program-learning-outcomes)
