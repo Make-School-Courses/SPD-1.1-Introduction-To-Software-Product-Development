@@ -25,10 +25,10 @@ None <br>
 
 Students by the end of the course will be able to ...
 
-1. Compare and contrast the benefits and drawbacks of Waterfall vs. Agile methodology, and follow iterative processes of user interviews, wireframes, and user journeys. (PLO 1 & 3)
-1. Explain various strategies to evaluate a problem space and product opportunities including PEST Analysis, Competitive Analysis, and User Interviews (PLO 5)
+1. Compare and contrast the benefits and drawbacks of Waterfall vs. Agile methodology.
+1. Practice iterative design processes including user interviews, wireframes, and user journeys. (PLO 1 & 3)
+1. Explain strategies to evaluate product opportunities including PEST Analysis, Competitive Analysis, and User Interviews (PLO 5)
 1. Create a prototypes of a product using User Personas, User Journeys, Wireframes Entity Relationship Diagrams and resource based scoping (PLO 3)
-1. Demonstrate a diverse and individualized set of professional skills necessary to succeed while at Make School and beyond. (PLO 1)
 1. Consistently practice professional business communication that is actionable with an appreciative tone. (PLO 4, PLO 6)
 
 ## Schedule
