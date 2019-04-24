@@ -89,10 +89,9 @@ Failure to meet these requirements will result in a PIP (Participation Improveme
 
 [Academic Honesty](https://make.sc/academic-honesty)<br>
 [Accommodations for Students](https://make.sc/accommodations-for-students)<br>
-[Attendance Policy](https://make.sc/attendance-policy)  
+[Attendance Policy](https://make.sc/attendance-policy)
 [Diversity and Inclusion Policy](https://make.sc/diversity-and-inclusion-policy)<br>
-[Grading System](https://make.sc/grading-system)
-<br>
+[Grading System](https://make.sc/grading-system)<br>
 [Title IX Policy](https://make.sc/title-ix-policy)<br>
 [Program Learning Outcomes](https://make.sc/program-learning-outcomes)
 
