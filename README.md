@@ -26,9 +26,9 @@ None <br>
 Students by the end of the course will be able to ...
 
 **Product Objectives:**
-1. Create the required documents to specify the design of a product, including user journeys and wireframes.
-1. Develop and evaluate product ideas using PEST Analysis, Competitive Analysis, and User Interviewing
-1. Create a prototypes of a product using User Journeys and Wireframes
+1. Develop product ideas using one's experiences, values, and hunches
+1. Evaluate product ideas using PEST Analysis, Competitive Analysis, and User Interviewing
+1. Create the required documents to specify the design of a product, including user journeys and wireframes
 
 **Communication Objectives:**
 1. Be timely in communication and use the proper communication channel 
