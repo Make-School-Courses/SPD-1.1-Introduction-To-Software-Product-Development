@@ -25,11 +25,14 @@ None <br>
 
 Students by the end of the course will be able to ...
 
-1. Compare and contrast the benefits and drawbacks of Waterfall vs. Agile methodology.
-1. Practice iterative design processes including user interviews, wireframes, and user journeys. (PLO 1 & 3)
-1. Explain strategies to evaluate product opportunities including PEST Analysis, Competitive Analysis, and User Interviews (PLO 5)
-1. Create a prototypes of a product using User Personas, User Journeys, Wireframes Entity Relationship Diagrams and resource based scoping (PLO 3)
-1. Consistently practice professional business communication that is actionable with an appreciative tone. (PLO 4, PLO 6)
+**Product Objectives:**
+1. Create the required documents to specify the design of a product, including user journeys and wireframes.
+1. Develop and evaluate product ideas using PEST Analysis, Competitive Analysis, and User Interviewing
+1. Create a prototypes of a product using User Journeys and Wireframes
+
+**Communication Objectives:**
+1. Be timely in communication and use the proper communication channel 
+1. Adopt a professional business communication style that is actionable and has an appreciative tone.
 
 ## Schedule
 
@@ -42,7 +45,7 @@ Class Times: Monday and Wednesday sections between 9:30am–11:30pm (13 class se
 ## Tutorials & Projects
 
 - **Blog Post - Due Last Lesson** [SPD 1.1 Blog Post: Identifying and Solving Problems](https://docs.google.com/document/d/1qivWC5VE4bo7A0YYgJ6dgnW1dV61QGIeSXBwfc4kkF0/edit) -  link has the fully fledged assignment. Work on this assignment throughout the course instead of saving it for last minute. This blog post will serve as a valuable portfolio to demonstrate your skill to recruiters. This [Blog Post/Writing Rubric](https://docs.google.com/document/d/1T1oqHFoRo0kl7mPUTFupmsoEkLYltKsVgtqyGKDaCgY/edit) will be used to evaluate your work. We will have a peer editing session on Oct 3rd in class for you to give and get peer feedback on your writing. Click on [these instructions](https://help.medium.com/hc/en-us/articles/215564177-Share-draft) on how to allow people to make edit suggestions directly to your Medium post.
-- **Intensive Product and Pitch - Due Last Lesson:** Term 1 ends with a one week "intensive" solely focused on designing, coding and shipping your own original product.
+- **Intensive Product Idea and Pitch - Due Last Lesson:** Term 1 ends with a one week "intensive" solely focused on designing, coding and shipping your own original product.
     - View [details](https://docs.google.com/document/d/1lRHbwCdrmxpVEEu_UwbUcRLtC-hvqc3IeZ3OTlAzNgo/edit#) about the intensive and tips for scoping your project
     - Grading: must core an average of a 3 or above on the [RUBRICs](https://docs.google.com/document/d/1pdtRdgVISE07fFc8oBi5hCnLkwBQDFG5_3f79aDV1WU/edit#) for the intensive project and product pitch
 
