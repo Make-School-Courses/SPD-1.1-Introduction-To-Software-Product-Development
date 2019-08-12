@@ -56,8 +56,7 @@ Class Times: Monday and Wednesday sections between 9:30am–11:30pm (13 class se
 ## Evaluation
 
 To pass this course you must meet the following requirements:
-- Pass all required tutorials and projects (see associated rubrics)
-- Pass the final summative assessment >=75%
+- Pass all required [blog post](https://docs.google.com/document/d/1qivWC5VE4bo7A0YYgJ6dgnW1dV61QGIeSXBwfc4kkF0/edit#heading=h.pxjuoqz282qp) (see [Writing/Blog Post Rubric](https://docs.google.com/document/d/1T1oqHFoRo0kl7mPUTFupmsoEkLYltKsVgtqyGKDaCgY/edit))
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
