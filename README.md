@@ -30,33 +30,7 @@ Students by the end of the course will be able to ...
 
 <!-- tabs:start -->
 <!-- omit in toc -->
-### **Section A: Braus**
-
-**Course Dates:** Wednesday, August 19 – Wednesday, October 7, 2020 (7 weeks)
-
-**Class Times:** Monday, Wednesday at 9:30am–12:15pm (14 class sessions)
-
-| Class |          Date          |                 Topics         |
-|:-----:|:----------------------:|:------------------------------:|
-|  1 |  Wed, Aug 19               | [Product: Introduction to SPD & Finding Problems] |
-|  2 |  Mon, Aug 24               | [Professionalism: Produtivity & Communication] |
-|  3 |  Wed, Aug 26               | [Industry Analysis] |
-|  4 |  Mon, Aug 31               | [Professionalism: Habit Formation] |
-|  5 |  Wed, Sept 2               | [Product: User Interviews] |
-|  - |  Mon, Sept 7               | **Holiday- Labor Day** | 
-|  6 |  Wed, Sept 9               | Product: User Interviewing Lab (Study & Productivity & Wellness) |
-|  7 |  Mon, Sept 14              | [Product: Generating New Solutions] | 
-|  8 |  Wed, Sept 16              | [Professionalism Procrastination & Time Sinks] |
-|  9 |  Mon, Sept 21              | [Product: scoping & user journeys] | 
-| 10 |  Wed, Sept 23              | [Finding Joy in Coding] |
-| 11 |  Mon, Sept 28              | [Product: Wireframes & Design] | 
-| 12 |  Wed, Sept 30              | How to Build a Beautiful Portfolio |
-| 13 |  Mon, Oct 5                | [Professionalism: Email Fundamentals] |  
-| 14 |  Wed, Oct 7                | Publish Party |
-
-
-<!-- omit in toc -->
-### **Section B: Adriana - HYBRID**
+### **Section A: Braus - HYBRID**
 
 **Course Dates:** Wednesday, August 19 – Wednesday, October 7, 2020 (7 weeks)
 
@@ -77,6 +51,31 @@ Students by the end of the course will be able to ...
 | 10 |  Wed, Sept 23              | [Finding Joy in Coding] | Paper Wireframing  |
 | 11 |  Mon, Sept 28              | [Product: Wireframes & Design] | |
 | 12 |  Wed, Sept 30              | How to Build a Beautiful Portfolio |  Agile Standups IV |
+| 13 |  Mon, Oct 5                | [Professionalism: Email Fundamentals] |  
+| 14 |  Wed, Oct 7                | Publish Party |
+
+<!-- omit in toc -->
+### **Section B: Adriana**
+
+**Course Dates:** Wednesday, August 19 – Wednesday, October 7, 2020 (7 weeks)
+
+**Class Times:** Monday, Wednesday at 9:30am–12:15pm (14 class sessions)
+
+| Class |          Date          |                 Topics         |
+|:-----:|:----------------------:|:------------------------------:|
+|  1 |  Wed, Aug 19               | [Product: Introduction to SPD & Finding Problems] |
+|  2 |  Mon, Aug 24               | [Professionalism: Produtivity & Communication] |
+|  3 |  Wed, Aug 26               | [Industry Analysis] |
+|  4 |  Mon, Aug 31               | [Professionalism: Habit Formation] |
+|  5 |  Wed, Sept 2               | [Product: User Interviews] |
+|  - |  Mon, Sept 7               | **Holiday- Labor Day** | 
+|  6 |  Wed, Sept 9               | Product: User Interviewing Lab (Study & Productivity & Wellness) |
+|  7 |  Mon, Sept 14              | [Product: Generating New Solutions] | 
+|  8 |  Wed, Sept 16              | [Professionalism Procrastination & Time Sinks] |
+|  9 |  Mon, Sept 21              | [Product: scoping & user journeys] | 
+| 10 |  Wed, Sept 23              | [Finding Joy in Coding] |
+| 11 |  Mon, Sept 28              | [Product: Wireframes & Design] | 
+| 12 |  Wed, Sept 30              | How to Build a Beautiful Portfolio |
 | 13 |  Mon, Oct 5                | [Professionalism: Email Fundamentals] |  
 | 14 |  Wed, Oct 7                | Publish Party |
 
