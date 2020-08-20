@@ -70,6 +70,16 @@ Attendance requirements for scheduled sessions are:
 
 Failure to meet these requirements will result in a PIP (Participation Improvement Plan).  Failure to improve after the PIP is cause for not being allowed to continue at Make School.
 
+## Hybrid Sections
+
+There will be weekly in person activities on Wednesdays at 12pm about:
+
+1. Agile Standups I
+1. Agile Standups II
+2. Habit Formation 
+1. Agile Standups III
+3. Paper Wireframing
+1. Agile Standups IV
 
 ## Make School Course Policies
 
