@@ -38,6 +38,12 @@ Class Times: Monday and Wednesday sections between 9:30am–11:30pm (14 class se
     - View [details](https://docs.google.com/document/d/1lRHbwCdrmxpVEEu_UwbUcRLtC-hvqc3IeZ3OTlAzNgo/edit#) about the intensive and tips for scoping your project
     - Grading: must core an average of a 3 or above on the [RUBRICs](https://docs.google.com/document/d/1pdtRdgVISE07fFc8oBi5hCnLkwBQDFG5_3f79aDV1WU/edit#) for the intensive project and product pitch
 
+We will be using [Gradescope](gradescope.com), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
+
+As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
+
+Your Gradescope login is your Make School email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
+
 ## Resources
 
 [Course Attendance, Progress Tracker & Schedule](https://docs.google.com/spreadsheets/d/1r9laew6bKAgoEj2W_WpcxzZ7UFpS0LRMidz6uR1yqpo/edit?usp=sharing)
