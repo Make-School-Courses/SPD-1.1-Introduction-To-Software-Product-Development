@@ -72,7 +72,7 @@ Failure to meet these requirements will result in a PIP (Participation Improveme
 
 ## Hybrid Sections
 
-There will be weekly in person activities on Wednesdays at 12pm about:
+There will be weekly in person activities on Wednesdays at 11:30am about:
 
 1. Agile Standups I
 1. Agile Standups II
