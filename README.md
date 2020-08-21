@@ -36,6 +36,8 @@ Students by the end of the course will be able to ...
 
 **Class Times:** Monday, Wednesday at 9:30am–12:15pm (14 class sessions)
 
+Hybrid sections are a mixture of online and in person components.  In person sessions include labs and group work as noted on your schedule.  These sections will run according to the Hybrid Delivery Policy: [make.sc/hybrid-delivery-policy](make.sc/hybrid-delivery-policy)
+
 | Class |          Date          |                 Topics         |   In-Person Labs   |
 |:-----:|:----------------------:|:------------------------------:|:-------------------:|
 |  1 |  Wed, Aug 19               | [Product: Introduction to SPD & Finding Problems] | |
@@ -157,17 +159,6 @@ To pass this course you must meet the following requirements:
 - Complete all sections of the Software Product Development [Blog Post Assignment](https://docs.google.com/document/d/1qivWC5VE4bo7A0YYgJ6dgnW1dV61QGIeSXBwfc4kkF0/edit#heading=h.pxjuoqz282qp) (see [Writing/Blog Post Rubric](https://docs.google.com/document/d/1T1oqHFoRo0kl7mPUTFupmsoEkLYltKsVgtqyGKDaCgY/edit))
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
-
-## Hybrid Sections
-
-There will be weekly in person activities on Wednesdays at 11:30am about:
-
-1. Agile Standups I
-1. Agile Standups II
-2. Habit Formation 
-1. Agile Standups III
-3. Paper Wireframing
-1. Agile Standups IV
 
 ## Make School Course Policies
 
