@@ -11,6 +11,12 @@ This course also teaches the “success skills” necessary to become a well-rou
 
 None <br>
 
+## Course Specifics
+
+**Course Delivery**: hybrid | 7 weeks | 14 sessions
+
+**Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
+
 ## Learning Objectives
 
 Students by the end of the course will be able to ...
@@ -153,6 +159,12 @@ To pass this course you must meet the following requirements:
 - Complete all sections of the Software Product Development [Blog Post Assignment](https://docs.google.com/document/d/1qivWC5VE4bo7A0YYgJ6dgnW1dV61QGIeSXBwfc4kkF0/edit#heading=h.pxjuoqz282qp) (see [Writing/Blog Post Rubric](https://docs.google.com/document/d/1T1oqHFoRo0kl7mPUTFupmsoEkLYltKsVgtqyGKDaCgY/edit))
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
+
+## Information Resources
+
+Any additional resources you may need (online books, etc.) can be found here. You can also find additional resources through the library linked below:
+
+- [make.sc/library](http://make.sc/library)
 
 ## Make School Course Policies
 
