@@ -80,7 +80,7 @@ Hybrid sections are a mixture of online and in person components.  In person ses
 
 ## Resources
 
-[Course Attendance, Progress Tracker & Schedule](https://docs.google.com/spreadsheets/d/1r9laew6bKAgoEj2W_WpcxzZ7UFpS0LRMidz6uR1yqpo/edit?usp=sharing)
+[Course Attendance, Progress Tracker & Schedule](https://docs.google.com/spreadsheets/d/1aaBGFfInvWvtbQmw0DE_zoP_YNo_OQBPD-zIBPuK0zM/edit#gid=1211147727)
 
 ## Evaluation
 
