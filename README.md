@@ -32,13 +32,11 @@ Students by the end of the course will be able to ...
 
 ## Schedule
 
-[Course Lesson Schedule tab of Tracker](https://docs.google.com/spreadsheets/d/1r9laew6bKAgoEj2W_WpcxzZ7UFpS0LRMidz6uR1yqpo/edit?usp=sharing)
+[Course Lesson Schedule tab of Tracker](https://docs.google.com/spreadsheets/d/1aaBGFfInvWvtbQmw0DE_zoP_YNo_OQBPD-zIBPuK0zM/edit#gid=1211147727)
 
-<!-- tabs:start -->
-<!-- omit in toc -->
-### **Section A: Braus - HYBRID**
 
-**Course Dates:** Wednesday, August 19 – Wednesday, October 7, 2020 (7 weeks)
+
+**Course Dates:** Wednesday, August 23 – Wednesday, October 7, 2020 (7 weeks)
 
 **Class Times:** Monday, Wednesday at 9:30am–12:15pm (14 class sessions)
 
