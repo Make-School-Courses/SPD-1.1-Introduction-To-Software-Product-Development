@@ -47,10 +47,10 @@ Hybrid sections are a mixture of online and in person components.  In person ses
 
 |                        Assignment                         | Date Assigned |   Due Date   |
 |:---------------------------------------------------------:|:-------------:|:------------:|
-| [Areas of Interest Worksheet]                             |  Wed, Aug 19  |  Mon, Aug 24  | 
-| [Blog Post]  - Section 1                                  |  Mon, Aug 24  |  Mon, Aug 31  |
-| [Blog Post]  - Section 2                                  |  Wed, Sept 9  |  Mon, Sept 21 |
-| [Blog Post]  - Section 3                                  |  Mon, Sept 21 |  Wed, Sept 30 |
+| [Areas of Interest Worksheet]                             |  Wed, Aug 23  |  Wed, Aug 25  | 
+| [Blog Post]  - Section 1                                  |  Mon, Aug 30  |  Mon, Sept 6  |
+| [Blog Post]  - Section 2                                  |  Wed, Sept 9  |  Mon, Sept 20 |
+| [Blog Post]  - Section 3                                  |  Mon, Sept 21 |  Wed, Sept 29 |
 | [Intensive Product Idea and Pitch]                        |  Wed, Sept 30 |  Wed, Oct 7   |
 | [Blog Post]  - Final Draft                                |  Wed, Sept 30 |  Wed, Oct 7   |
 
