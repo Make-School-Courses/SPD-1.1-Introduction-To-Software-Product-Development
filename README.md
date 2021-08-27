@@ -45,6 +45,14 @@ Hybrid sections are a mixture of online and in person components.  In person ses
 
 ## Assignment Schedule 
 
+We will be using [Gradescope](gradescope.com), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
+
+As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
+
+Your Gradescope login is your Dominican email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
+
+Although all assignments for this course live in gradescope but I repeat the main ones here:
+
 |                        Assignment                         | Date Assigned |   Due Date   |
 |:---------------------------------------------------------:|:-------------:|:------------:|
 | [Areas of Interest Worksheet]                             |  Wed, Aug 23  |  Wed, Aug 25  | 
