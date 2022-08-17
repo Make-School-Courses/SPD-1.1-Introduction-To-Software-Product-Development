@@ -36,9 +36,9 @@ Students by the end of the course will be able to ...
 
 <!-- tabs:start -->
 <!-- omit in toc -->
-### **Section A: Braus - HYBRID**
 
 **Course Dates:** Wednesday, August 17 – Wednesday, October 5, 2020 (7 weeks)
+**Course Times:** 9:30am PST - 12:30am PST
 
 ## Tutorials & Projects
 
