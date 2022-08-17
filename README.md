@@ -42,6 +42,8 @@ Students by the end of the course will be able to ...
 
 ## Tutorials & Projects
 
+ALL assignemnts are housed and turned in on Gradescope.com. You should have recieved an email to activate your account.
+- **New Product Ideation** - explore the domains and problem spaces that align with your interests
 - **Blog Post - Due Last Lesson** [SPD 1.1 Blog Post: Identifying and Solving Problems](https://docs.google.com/document/d/1TVhaznKCFpuWmaEe5LpqZvjuthfJfCATCLhQ9zNxP30/edit#heading=h.pxjuoqz282qp) -  link has the fully fledged assignment. Work on this assignment throughout the course instead of saving it for last minute. This blog post will serve as a valuable portfolio to demonstrate your skill to recruiters. This [Blog Post/Writing Rubric](https://docs.google.com/document/d/1T1oqHFoRo0kl7mPUTFupmsoEkLYltKsVgtqyGKDaCgY/edit) will be used to evaluate your work. We will have a peer editing session on Oct 3rd in class for you to give and get peer feedback on your writing. Click on [these instructions](https://help.medium.com/hc/en-us/articles/215564177-Share-draft) on how to allow people to make edit suggestions directly to your Medium post.
 - **Intensive Product Idea and Pitch - Due Last Lesson:** Term 1 ends with a one week "intensive" solely focused on designing, coding and shipping your own original product.
     - View [details](https://docs.google.com/document/d/1lRHbwCdrmxpVEEu_UwbUcRLtC-hvqc3IeZ3OTlAzNgo/edit#) about the intensive and tips for scoping your project
